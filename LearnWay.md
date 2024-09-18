@@ -3,4 +3,4 @@
 * [C# 文档](https://learn.microsoft.com/zh-cn/dotnet/csharp/)：[泛型](https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/types/generics)，[异步](https://learn.microsoft.com/zh-cn/dotnet/csharp/asynchronous-programming/)，[委托和事件](https://learn.microsoft.com/zh-cn/dotnet/csharp/delegates-overview)，[Lambda表达式](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/operators/lambda-expressions)
 * [ADO.NET](https://learn.microsoft.com/zh-cn/dotnet/framework/data/adonet/)  
 * [EF Core](https://learn.microsoft.com/zh-cn/ef/)  
-* [ASP.NET MVC](https://learn.microsoft.com/zh-cn/aspnet/core/mvc/overview) Get [Here](https://learn.microsoft.com/zh-cn/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-8.0&tabs=visual-studio)  
+* [ASP.NET MVC](https://learn.microsoft.com/zh-cn/aspnet/core/mvc/overview) Get [Here](https://learn.microsoft.com/zh-cn/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-8.0&tabs=visual-studio)，[序列化](https://learn.microsoft.com/zh-cn/dotnet/standard/serialization/system-text-json/overview)
