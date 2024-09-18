@@ -3,5 +3,4 @@
 * [C# 文档](https://learn.microsoft.com/zh-cn/dotnet/csharp/)：[泛型](https://learn.microsoft.com/zh-cn/dotnet/csharp/fundamentals/types/generics)，[异步](https://learn.microsoft.com/zh-cn/dotnet/csharp/asynchronous-programming/)，[委托和事件](https://learn.microsoft.com/zh-cn/dotnet/csharp/delegates-overview)，[Lambda表达式](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/operators/lambda-expressions)
 * [ADO.NET](https://learn.microsoft.com/zh-cn/dotnet/framework/data/adonet/)  
 * [EF Core](https://learn.microsoft.com/zh-cn/ef/)  
-* [练习：EF Core](https://learn.microsoft.com/zh-cn/training/modules/persist-data-ef-core/)  
-* [ASP.NET MVC](https://dotnet.microsoft.com/zh-cn/apps/aspnet/mvc)
+* [ASP.NET MVC](https://learn.microsoft.com/zh-cn/aspnet/core/mvc/overview) Get Here.  
