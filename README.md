@@ -6,3 +6,7 @@
 - ASP.NET Core
 - ADO.NET
 - ...
+
+## .NET docs
+- [Microsoft .NET documentation](https://learn.microsoft.com/dotnet/)
+- [Dot Net Tutorials](https://dotnettutorials.net/)

@@ -1,13 +1,17 @@
 [ASP.NET Core 中间件](https://learn.microsoft.com/zh-cn/aspnet/core/fundamentals/middleware)
 # ASP.NET Core 中间件
 
-## ASP.NET Core 中间件
+## ASP.NET Core 中间件概述
 
 ASP.NET Core 中间件是请求处理管道的基本构建块。它们决定了HTTP请求和响应将如何被处理。中间件用于实现各种功能，如认证、授权、错误处理、路由和日志记录等。
 
 中间件按照它们添加到管道的顺序执行，ASP.NET Core 应用程序中的每个中间件都执行以下任务：
 - **传递请求**：选择是否将HTTP请求传递给请求处理管道中注册的下一个中间件。
 - **执行任务**：可以在调用管道中的下一个组件之前或之后执行某些任务。
+
+下图显示了 ASP.NET Core MVC 和 Razor Pages 应用的完整请求处理管道。图中描述了在典型的应用程序中，现有中间件的排序，以及自定义中间件的添加位置。
+
+![middleware-pipeline](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/index/_static/middleware-pipeline.svg)
 
 ASP.NET Core提供了许多内置的中间件，可以根据业务需求创建自定义中间件。每个中间件应遵循单一职责原则。
 
@@ -20,6 +24,14 @@ ASP.NET Core提供了许多内置的中间件，可以根据业务需求创建�
 
 ### 中间件执行顺序
 对于传入请求，中间件按照它们被添加到请求处理管道的顺序执行，而对传出响应则是逆序执行。如果以错误的顺序添加中间件，则可能会出现意外行为。
+
+### 请求处理管道
+ASP.NET Core 请求管道包含一系列请求委托，依次调用。 下图演示了这一概念。 沿黑色箭头执行。
+
+![request-delegate-pipeline](https://learn.microsoft.com/aspnet/core/fundamentals/middleware/index/_static/request-delegate-pipeline.png)
+
+- 请求处理管道由一系列中间件组件组成，这些组件将按特定顺序调用。
+- 每个中间件都可以在调用下一个中间件之前和之后执行一些操作，从实现原理上来说，每个委托均可在下一个委托前后执行操作。中间件组件还可以决定不调用下一个中间件组件，这称为短路。
 
 ## 配置中间件
 
@@ -99,38 +111,57 @@ app.Run(async (context) =>
 app.Run();
 ```
 
-## 中间件的使用位置
+## 中间件的使用
 
-### 横切关注点处理
+向 Program.cs 文件中添加中间件组件的顺序定义了针对请求调用这些组件的顺序，以及响应的相反顺序。 此顺序对于应用程序的安全性、性能和功能至关重要。
 
-中间件组件在 ASP.NET Core 应用程序中用于处理横切关注点，例如身份验证、授权、日志记录、错误处理、路由和其他应用程序级服务。中间件组件在 HTTP 请求处理管道中配置，它们决定如何处理请求和返回响应。以下是ASP.NET Core应用程序中使用的常见内置中间件组件：
+### 典型顺序
 
-**UseRouting**
+以下 Program.cs 代码将为常见应用场景添加中间件组件：
 
-配置路由中间件，负责将请求映射到相应的端点处理程序。
+1. 异常/错误处理
+   - 当应用在开发环境中运行时：
+     - 开发人员异常页中间件 (UseDeveloperExceptionPage) 报告应用运行时错误。
+     - 数据库错误页中间件 (UseDatabaseErrorPage) 报告数据库运行时错误。
+   - 当应用在生产环境中运行时：
+     - 异常处理程序中间件 (UseExceptionHandler) 捕获以下中间件中引发的异常。
+     - HTTP 严格传输安全协议 (HSTS) 中间件 (UseHsts) 添加 Strict-Transport-Security 标头。
+2. HTTPS 重定向中间件 (UseHttpsRedirection) 将 HTTP 请求重定向到 HTTPS。
+3. 静态文件中间件 (UseStaticFiles) 返回静态文件，并简化进一步请求处理。
+4. Cookie 策略中间件 (UseCookiePolicy) 使应用符合欧盟一般数据保护条例 (GDPR) 规定。
+5. 用于路由请求的路由中间件 (UseRouting)。
+6. 身份验证中间件 (UseAuthentication) 尝试对用户进行身份验证，然后才会允许用户访问安全资源。
+7. 用于授权用户访问安全资源的授权中间件 (UseAuthorization)。
+8. 会话中间件 (UseSession) 建立和维护会话状态。 如果应用使用会话状态，请在 Cookie 策略中间件之后和 MVC 中间件之前调用会话中间件。
+9. 用于将 Razor Pages 终结点添加到请求管道的终结点路由中间件（带有 MapRazorPages 的 UseEndpoints）。
 
-**UseAuthentication**
-
-- 验证请求中的凭据，设置用户身份。
-- 通常在`UseRouting`之后、`UseAuthorization`之前添加。
-
-**UseAuthorization**
-
-- 检查用户是否具有访问资源的权限。
-- 确保安全策略的实施。
-
-**UseHttpsRedirection**
-
-- 自动将HTTP请求重定向到HTTPS，确保安全。
-
-**UseDeveloperExceptionPage**
-
-- 在开发过程中提供详细的错误页面，帮助诊断问题。
-
-**UseExceptionHandler**
-
-- 捕获并处理异常，管理生产环境中的错误。
-
-**UseStaticFiles**
-
-- 直接从服务器提供静态文件，提高性能。
+```csharp
+if (env.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage();
+    app.UseDatabaseErrorPage();
+}
+else
+{
+    app.UseExceptionHandler("/Error");
+    app.UseHsts();
+}
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseCookiePolicy();
+app.UseRouting();
+// app.UseRateLimiter();
+// app.UseRequestLocalization();
+// app.UseCors();
+app.UseAuthentication();
+app.UseAuthorization();
+app.UseSession();
+// app.UseResponseCompression();
+// app.UseResponseCaching();
+app.MapRazorPages();
+```
+并非所有中间件都完全按照此顺序出现，但许多中间件都会遵循此顺序。 例如：
+- `UseCors`、`UseAuthentication` 和 `UseAuthorization` 必须按显示的顺序出现。
+- `UseCors` 当前必须在 `UseResponseCaching` 之前出现。
+- `UseRequestLocalization` 必须在可能检查请求区域性的任何中间件（例如 `app.UseStaticFiles()`）之前出现。
+- 在使用速率限制终结点特定的 API 时，必须在 `UseRouting` 之后调用 `UseRateLimiter`。 当仅调用全局限制器时，可以在 `UseRouting` 之前调用 `UseRateLimiter`。
