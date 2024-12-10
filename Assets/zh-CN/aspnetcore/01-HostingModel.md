@@ -1,4 +1,4 @@
-## ASP.NET Core 托管模型
+# ASP.NET Core 托管模型
 
 在 ASP.NET Core 中，托管模型确定如何托管 ASP.NET Core 应用程序、使用哪些 Web 服务器以及如何处理请求。ASP.NET Core 中有两种主要的托管模型：
 
@@ -13,7 +13,7 @@
   - 服务器 IIS (或 Apache, Nginx) 作为反向代理，将 HTTP 请求转发给内部 Web 服务器（如 Kestrel）。
   - 通过反向代理服务器处理请求转发。
 
-### InProcess 托管模型工作流程
+## InProcess 托管模型工作流程
 
 请求/响应 ↔ **(IIS** ↔ **ANCM** ↔ **IIS HTTP Server** ↔ **应用代码)** 
 
@@ -45,7 +45,7 @@
    - 发送响应回客户端。
 
 
-### OutOfProcess 托管模型工作流程
+## OutOfProcess 托管模型工作流程
 
 请求/响应 ↔ **反向代理** ↔ **ANCM** ↔ **Kestrel** ↔ **应用代码**
 
@@ -82,7 +82,7 @@
 9. **客户端浏览器**  
    显示从IIS接收到的HTTP响应
 
-### Kestrel Web Server
+## Kestrel Web Server
 
 Kestrel Web Server 是在 Windows、Linux 和 MacOS 上托管 ASP.NET Core Web 应用程序的默认跨平台 Web 服务器，使用 HTTP/HTTPS 配置启动程序将使用 Kestrel 服务器，程序代码在 Kestrel 服务器工作进程中执行。  
 当 Kestrel 独立使用时，它直接处理请求，无需反向代理服务器，此时 InProcess/OutOfProcess 术语不适用。
