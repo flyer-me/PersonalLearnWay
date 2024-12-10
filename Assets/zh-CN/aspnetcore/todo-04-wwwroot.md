@@ -1,0 +1,1 @@
+[ASP.NET Core 中的静态文件](https://learn.microsoft.com/aspnet/core/fundamentals/static-files)

@@ -39,7 +39,7 @@ ASP.NET Core 请求管道包含一系列请求委托，依次调用。 下图演
 
 ### 配置中间件的方式：
 - **Map扩展方法**：根据特定的请求路径对中间件管道进行分支，主要用于最小API。
-- **Run**：添加一个终止中间件，终止中间件管道，通常用于中间件管道的末尾。
+- **Run**：添加一个末尾中间件，末尾中间件管道，通常用于中间件管道的末尾。
 - **Use**：添加一个新的中间件，选择性地调用下一个中间件，使用最灵活。
 
 ### 使用 Map/MapGet 扩展方法配置中间件组件
@@ -53,7 +53,7 @@ MapGet 和 Map 扩展方法的区别
 - **Map**：处理所有类型的HTTP请求的通用方法，请求委托通常包含区分这些方法的逻辑。
 
 ### 使用Run扩展方法配置中间件
-`Run`方法用于添加一个终止中间件：
+`Run`方法用于添加一个末尾中间件：
 
 ```csharp
 var builder = WebApplication.CreateBuilder(args);
@@ -90,12 +90,12 @@ app.Run(async (context) =>
 app.Run();
 ```
 在第一个 Use Extension 方法中，**context** 和 **next** 参数传递给匿名方法。然后，调用 **next** delegate，它将调用下一个中间件。
-可以使用Use extension 方法创建终止中间件，不调用 `next()` 委托。在这种情况下，需要指定 **context** 对象并显式请求委托：
+可以使用Use extension 方法创建末尾中间件，不调用 `next()` 委托。在这种情况下，需要指定 **context** 对象并显式请求委托：
 ```csharp
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-//终止中间件
+//末尾中间件
 app.Use(async (HttpContext context, RequestDelegate next) =>
 {
     await context.Response.WriteAsync("Getting Response from First Middleware");
