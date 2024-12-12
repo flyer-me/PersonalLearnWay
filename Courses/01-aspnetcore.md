@@ -54,25 +54,25 @@
 
 - [x] [在 ASP.NET Core中配置默认页面](https://dotnettutorials.net/lesson/configuring-default-page-asp-net-core/)
 
-- [ ] [ASP.NET Core中的开发人员异常页面中间件](https://dotnettutorials.net/lesson/developer-exception-page-middleware-asp-net-core/)
+- [x] [ASP.NET Core中的开发人员异常页面中间件](https://dotnettutorials.net/lesson/developer-exception-page-middleware-asp-net-core/)
 
-- [ ] [ASP.NET Core命令行界面](https://dotnettutorials.net/lesson/asp-net-core-command-line-interface/)
+- [x] [ASP.NET Core命令行界面](https://dotnettutorials.net/lesson/asp-net-core-command-line-interface/)
 
-- [ ] [ASP.NET Core应用程序中的项目模板](https://dotnettutorials.net/lesson/project-templates-in-asp-net-core-application/)
+- [x] [ASP.NET Core应用程序中的项目模板](https://dotnettutorials.net/lesson/project-templates-in-asp-net-core-application/)
 
 ### 3. ASP.NET Core MVC 基础
 
-- [ ] [ASP.NET Core MVC框架简介](https://dotnettutorials.net/lesson/introduction-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC框架简介](https://dotnettutorials.net/lesson/introduction-asp-net-core-mvc/)
 
-- [ ] [在 ASP.NET Core中设置 MVC](https://dotnettutorials.net/lesson/setup-mvc-asp-net-core-application/)
+- [x] [在 ASP.NET Core中设置 MVC](https://dotnettutorials.net/lesson/setup-mvc-asp-net-core-application/)
 
-- [ ] [AddController 与 AddMvc与 AddControllersWithViews 与 AddRazorPages](https://dotnettutorials.net/lesson/difference-between-addmvc-and-addmvccore-method/)
+- [x] [AddController 与 AddMvc与 AddControllersWithViews 与 AddRazorPages](https://dotnettutorials.net/lesson/difference-between-addmvc-and-addmvccore-method/)
 
-- [ ] [ASP.NET Core MVC中的控制器](https://dotnettutorials.net/lesson/controllers-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的控制器](https://dotnettutorials.net/lesson/controllers-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的模型](https://dotnettutorials.net/lesson/model-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的模型](https://dotnettutorials.net/lesson/model-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的视图](https://dotnettutorials.net/lesson/views-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的视图](https://dotnettutorials.net/lesson/views-asp-net-core-mvc/)
 
 - [ ] [ASP.NET核心依赖注入](https://dotnettutorials.net/lesson/asp-net-core-dependency-injection/)
 
