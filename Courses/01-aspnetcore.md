@@ -74,29 +74,29 @@
 
 - [x] [ASP.NET Core MVC中的视图](https://dotnettutorials.net/lesson/views-asp-net-core-mvc/)
 
-- [ ] [ASP.NET核心依赖注入](https://dotnettutorials.net/lesson/asp-net-core-dependency-injection/)
+- [x] [ASP.NET核心依赖注入](https://dotnettutorials.net/lesson/asp-net-core-dependency-injection/)
 
-- [ ] [ASP.NET Core中的单一实例、范围服务与瞬态服务](https://dotnettutorials.net/lesson/singleton-vs-scoped-vs-transient-services-in-asp-net-core/)
+- [x] [ASP.NET Core中的单一实例、范围服务与瞬态服务](https://dotnettutorials.net/lesson/singleton-vs-scoped-vs-transient-services-in-asp-net-core/)
 
 ### 4. ASP.NET Core MVC – 数据传递技术
 
-- [ ] [使用 MVC 模板 ASP.NETCore 应用程序](https://dotnettutorials.net/lesson/asp-net-core-application-using-mvc-template/)
+- [x] [使用 MVC 模板 ASP.NETCore 应用程序](https://dotnettutorials.net/lesson/asp-net-core-application-using-mvc-template/)
 
-- [ ] [ASP.NET Core MVC 中的ViewData](https://dotnettutorials.net/lesson/viewdata-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的ViewData](https://dotnettutorials.net/lesson/viewdata-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的ViewBag](https://dotnettutorials.net/lesson/viewbag-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的ViewBag](https://dotnettutorials.net/lesson/viewbag-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的强类型视图](https://dotnettutorials.net/lesson/strongly-typed-view-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的强类型视图](https://dotnettutorials.net/lesson/strongly-typed-view-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的ViewModel](https://dotnettutorials.net/lesson/view-model-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的ViewModel](https://dotnettutorials.net/lesson/view-model-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的TempData](https://dotnettutorials.net/lesson/tempdata-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的TempData](https://dotnettutorials.net/lesson/tempdata-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core 中的Post-Redirect-Get （PRG） 模式示例](https://dotnettutorials.net/lesson/post-redirect-get-prg-pattern-example-in-asp-net-core/)
+- [x] [ASP.NET Core 中的Post-Redirect-Get （PRG） 模式示例](https://dotnettutorials.net/lesson/post-redirect-get-prg-pattern-example-in-asp-net-core/)
 
 ### 5. ASP.NET Core MVC – 路由
 
-- [ ] [ASP.NET Core MVC中的路由](https://dotnettutorials.net/lesson/routing-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的路由](https://dotnettutorials.net/lesson/routing-asp-net-core-mvc/)
 
 - [ ] [ASP.NET Core MVC中的自定义路由](https://dotnettutorials.net/lesson/custom-routing-inasp-net-core-mvc/)
 
