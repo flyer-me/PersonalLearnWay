@@ -38,15 +38,15 @@
 
 - [x] [ASP.NET Core 中的Kestrel Web 服务器](https://dotnettutorials.net/lesson/kestrel-web-server-asp-net-core/)
 
-- [x] [ASP.NET核心进程外托管](https://dotnettutorials.net/lesson/asp-net-core-outofprocess-hosting/)
+- [x] [ASP.NET Core进程外托管](https://dotnettutorials.net/lesson/asp-net-core-outofprocess-hosting/)
 
 - [x] [ASP.NET CoreLaunchSettings.json 文件](https://dotnettutorials.net/lesson/asp-net-core-launchsettings-json-file/)
 
 - [x] [ASP.NET CoreAppSettings.json 文件](https://dotnettutorials.net/lesson/asp-net-core-appsettings-json-file/)
 
-- [x] [ASP.NET核心中间件组件](https://dotnettutorials.net/lesson/asp-net-core-middleware-components/)
+- [x] [ASP.NET Core中间件组件](https://dotnettutorials.net/lesson/asp-net-core-middleware-components/)
 
-- [x] [ASP.NET核心请求处理管道](https://dotnettutorials.net/lesson/asp-net-core-request-processing-pipeline/)
+- [x] [ASP.NET Core请求处理管道](https://dotnettutorials.net/lesson/asp-net-core-request-processing-pipeline/)
 
 - [x] [wwwroot 文件夹中的ASP.NET](https://dotnettutorials.net/lesson/wwwroot-folder-asp-net-core/)
 
@@ -74,7 +74,7 @@
 
 - [x] [ASP.NET Core MVC中的视图](https://dotnettutorials.net/lesson/views-asp-net-core-mvc/)
 
-- [x] [ASP.NET核心依赖注入](https://dotnettutorials.net/lesson/asp-net-core-dependency-injection/)
+- [x] [ASP.NET Core依赖注入](https://dotnettutorials.net/lesson/asp-net-core-dependency-injection/)
 
 - [x] [ASP.NET Core中的单一实例、范围服务与瞬态服务](https://dotnettutorials.net/lesson/singleton-vs-scoped-vs-transient-services-in-asp-net-core/)
 
@@ -98,15 +98,15 @@
 
 - [x] [ASP.NET Core MVC中的路由](https://dotnettutorials.net/lesson/routing-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的自定义路由](https://dotnettutorials.net/lesson/custom-routing-inasp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的自定义路由](https://dotnettutorials.net/lesson/custom-routing-inasp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的自定义路由约束](https://dotnettutorials.net/lesson/custom-route-constraint-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的自定义路由约束](https://dotnettutorials.net/lesson/custom-route-constraint-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的属性路由](https://dotnettutorials.net/lesson/attribute-routing-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的属性路由](https://dotnettutorials.net/lesson/attribute-routing-in-asp-net-core-mvc/)
 
-- [ ] [使用 Token 的 ASP.NET核心属性路由](https://dotnettutorials.net/lesson/asp-net-core-attribute-routing-using-tokens/)
+- [x] [使用 Token 的 ASP.NET Core属性路由](https://dotnettutorials.net/lesson/asp-net-core-attribute-routing-using-tokens/)
 
-- [ ] [ASP.NET Core中的属性路由与传统路由](https://dotnettutorials.net/lesson/attribute-routing-vs-conventional-routing-in-asp-net-core/)
+- [x] [ASP.NET Core中的属性路由与传统路由](https://dotnettutorials.net/lesson/attribute-routing-vs-conventional-routing-in-asp-net-core/)
 
 ### 6. ASP.NET Core MVC – 视图
 
@@ -474,11 +474,11 @@
 
 - [ ] [前 100 个 EntityFramework 核心面试问题和答案](https://dotnettutorials.net/lesson/top-100-entity-framework-core-interview-questions-and-answers/)
 
-- [ ] [ASP.NET核心基本面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-basic-interview-questions-and-answers/)
+- [ ] [ASP.NET Core基本面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-basic-interview-questions-and-answers/)
 
-- [ ] [ASP.NET核心中级面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-intermediate-interview-questions-and-answers/)
+- [ ] [ASP.NET Core中级面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-intermediate-interview-questions-and-answers/)
 
-- [ ] [ASP.NET核心经验丰富的面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-experienced-interview-questions-and-answers/)
+- [ ] [ASP.NET Core经验丰富的面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-experienced-interview-questions-and-answers/)
 
 - [ ] [ASP.NET Core MVC基础面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-mvc-basic-interview-questions-and-answers/)
 
