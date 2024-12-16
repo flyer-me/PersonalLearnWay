@@ -110,45 +110,45 @@
 
 ### 6. ASP.NET Core MVC – 视图
 
-- [ ] [ASP.NET Core MVC中的布局视图](https://dotnettutorials.net/lesson/layout-view-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的布局视图](https://dotnettutorials.net/lesson/layout-view-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中布局视图中的节](https://dotnettutorials.net/lesson/sections-in-layout-view-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中布局视图中的节](https://dotnettutorials.net/lesson/sections-in-layout-view-in-asp-net-core-mvc/)
 
-- [ ] [ViewStart 在 ASP.NETCore MVC 中启动](https://dotnettutorials.net/lesson/viewstart-in-asp-net-core-mvc/)
+- [x] [ASP.NETCore MVC 中的ViewStart](https://dotnettutorials.net/lesson/viewstart-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的ViewImports](https://dotnettutorials.net/lesson/viewimports-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的ViewImports](https://dotnettutorials.net/lesson/viewimports-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的分部视图](https://dotnettutorials.net/lesson/partial-views-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的分部视图](https://dotnettutorials.net/lesson/partial-views-in-asp-net-core-mvc/)
 
-- [ ] [在 ASP.NET Core MVC中呈现部分视图的不同方法](https://dotnettutorials.net/lesson/different-ways-to-render-partial-view-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中呈现部分视图的不同方法](https://dotnettutorials.net/lesson/different-ways-to-render-partial-view-in-asp-net-core-mvc/)
 
-- [ ] [查看 ASP.NET Core MVC中的组件](https://dotnettutorials.net/lesson/view-components-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC中的视图组件](https://dotnettutorials.net/lesson/view-components-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core 中的 Razor语法](https://dotnettutorials.net/lesson/razor-view-engine-and-razor-syntax-in-asp-net-core/)
+- [x] [ASP.NET Core 中的 Razor语法](https://dotnettutorials.net/lesson/razor-view-engine-and-razor-syntax-in-asp-net-core/)
 
-- [ ] [在 ASP.NET Core MVC中安装 Bootstrap](https://dotnettutorials.net/lesson/how-to-install-bootstrap-in-asp-net-core/)
+- [x] [在 ASP.NET Core MVC中安装 Bootstrap](https://dotnettutorials.net/lesson/how-to-install-bootstrap-in-asp-net-core/)
 
-- [ ] [在 ASP.NET Core MVC中使用 Bootstrap](https://dotnettutorials.net/lesson/how-to-use-bootstrapin-asp-net-core-mvc/)
+- [x] [在 ASP.NET Core MVC中使用 Bootstrap](https://dotnettutorials.net/lesson/how-to-use-bootstrapin-asp-net-core-mvc/)
 
 ### 7. ASP.NET Core MVC – 操作结果
 
-- [ ] [ASP.NET Core MVC中的操作结果](https://dotnettutorials.net/lesson/action-results-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC中的Action Result](https://dotnettutorials.net/lesson/action-results-in-asp-net-core-mvc/)
 
-- [ ] [在 ASP.NET Core MVC中查看结果](https://dotnettutorials.net/lesson/view-results-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC中的View Result](https://dotnettutorials.net/lesson/view-results-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的部分视图结果](https://dotnettutorials.net/lesson/partial-view-result-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC中的Partial View Result](https://dotnettutorials.net/lesson/partial-view-result-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的JSON 结果](https://dotnettutorials.net/lesson/json-result-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 中的JSON Result](https://dotnettutorials.net/lesson/json-result-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的内容结果](https://dotnettutorials.net/lesson/content-result-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC中的Content Result](https://dotnettutorials.net/lesson/content-result-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的文件结果](https://dotnettutorials.net/lesson/file-result-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC中的File Result](https://dotnettutorials.net/lesson/file-result-in-asp-net-core-mvc/)
 
-- [ ] [在 ASP.NET Core MVC中重定向结果](https://dotnettutorials.net/lesson/redirect-results-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC中的Redirect Result](https://dotnettutorials.net/lesson/redirect-results-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的状态结果](https://dotnettutorials.net/lesson/status-results-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC中的Status Result](https://dotnettutorials.net/lesson/status-results-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC中的对象结果](https://dotnettutorials.net/lesson/object-result-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC中的Object Result](https://dotnettutorials.net/lesson/object-result-in-asp-net-core-mvc/)
 
 - [ ] [ASP.NET Core MVC 中的EmptyResult](https://dotnettutorials.net/lesson/emptyresult-in-asp-net-core-mvc/)
 
