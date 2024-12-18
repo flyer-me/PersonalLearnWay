@@ -304,9 +304,9 @@
 
 - [x] [EF Core中的 CRUD 操作](https://dotnettutorials.net/lesson/crud-operations-in-entity-framework-core/)
 
-- [ ] [EF Core中的实体状态](https://dotnettutorials.net/lesson/entity-states-in-entity-framework-core/)
+- [x] [EF Core中的实体状态](https://dotnettutorials.net/lesson/entity-states-in-entity-framework-core/)
 
-- [ ] [EF Core中的 LINQ to Entities](https://dotnettutorials.net/lesson/linq-to-entities-in-entity-framework-core/)
+- [x] [EF Core中的 LINQ to Entities](https://dotnettutorials.net/lesson/linq-to-entities-in-entity-framework-core/)
 
 - [ ] [使用 EF Core CodeFirst 方法设计数据库](https://dotnettutorials.net/lesson/student-management-application-using-ef-core-code-first-approach/)
 
