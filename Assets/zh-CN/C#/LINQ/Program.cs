@@ -43,7 +43,7 @@ Console.WriteLine(string.Join(", ", res));
 data1.Add(11);
 Console.WriteLine(string.Join(", ", res));
 // 1st Output: 2, 4, 6, 8, 20, 20
-// 2st Output: 2, 4, 6, 8, 20, 20, 22
+// 2nd Output: 2, 4, 6, 8, 20, 20, 22
 
 // 多线程
 res = data.ToArray()
