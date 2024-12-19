@@ -3,11 +3,11 @@
 
 下面列出了常用的Entity Framework Core (EF Core) 数据注释属性，并以表格形式展示了它们的简要信息。
 
-| 属性名称 | 使用示例 | 应用于实体/属性 | 影响数据库架构 | 具体作用 |
+| 属性名称 | 使用示例 | 应用于实体/属性 | 影响数据库架构 | 说明 |
 | --- | --- | --- | --- | --- |
 | Key | 属性：`[Key]`<br>实体：`[PrimaryKey(nameof(Name))，nameof(Age))]` | 属性/实体 | 是 | 标记属性作为实体的主键 |
 | Table | `[Table("UserInfo", Schema = "dbo")]` | 实体 | 是 | 指定实体映射到的数据库表名、组织架构 |
-| ForeignKey | `[ForeignKey("Author")]`<br>`[ForeignKey("UserId,BookId")]` | 属性 | 是 | 指定外键属性，关联到另一个实体的主键 |
+| ForeignKey | `[ForeignKey("Author")]`<br>`[ForeignKey("UserId,BookId")]` | 属性 | 是 | 指定属性作为外键、复合外键<br>可用于标量属性(scaler property)和导航属性(reference navigation property) |
 | InverseProperty | `[InverseProperty("Posts")]` | 属性 | 否 | 指定导航属性的反向属性，帮助建立双向关系 |
 | Column | `[Column("dbo", Order = 2, TypeName = "DateTime2")]` | 属性 | 是 | 指定数据库中列的名称、顺序和类型 |
 | Index | `[Index("Id","Name", AllDescending = true, IsUnique = true)]` | 属性 | 是 | 创建单/多列索引，设置排序，提高性能 |
