@@ -308,33 +308,33 @@
 
 - [x] [EF Core中的 LINQ to Entities](https://dotnettutorials.net/lesson/linq-to-entities-in-entity-framework-core/)
 
-- [ ] [使用 EF Core CodeFirst 方法设计数据库](https://dotnettutorials.net/lesson/student-management-application-using-ef-core-code-first-approach/)
+- [x] [使用 EF Core CodeFirst 方法设计数据库](https://dotnettutorials.net/lesson/student-management-application-using-ef-core-code-first-approach/)
 
-- [ ] [EF Core中的预先加载](https://dotnettutorials.net/lesson/eager-loading-in-entity-framework-core/)
+- [x] [EF Core中的预先加载](https://dotnettutorials.net/lesson/eager-loading-in-entity-framework-core/)
 
-- [ ] [EF Core中的延迟加载](https://dotnettutorials.net/lesson/lazy-loading-in-entity-framework-core/)
+- [x] [EF Core中的延迟加载](https://dotnettutorials.net/lesson/lazy-loading-in-entity-framework-core/)
 
-- [ ] [EF Core中的显式加载](https://dotnettutorials.net/lesson/explicit-loading-in-entity-framework-core/)
+- [x] [EF Core中的显式加载](https://dotnettutorials.net/lesson/explicit-loading-in-entity-framework-core/)
 
-- [ ] [EF Core中的默认约定](https://dotnettutorials.net/lesson/default-conventions-in-entity-framework-core/)
+- [x] [EF Core中的默认约定](https://dotnettutorials.net/lesson/default-conventions-in-entity-framework-core/)
 
-- [ ] [EF Core中的数据注释](https://dotnettutorials.net/lesson/data-annotation-attributes-in-entity-framework-core/)
+- [x] [EF Core中的数据注释](https://dotnettutorials.net/lesson/data-annotation-attributes-in-entity-framework-core/)
 
-- [ ] [EF Core中的 Table 属性](https://dotnettutorials.net/lesson/table-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 Table 属性](https://dotnettutorials.net/lesson/table-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 Column 属性](https://dotnettutorials.net/lesson/column-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 Column 属性](https://dotnettutorials.net/lesson/column-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 Key 属性](https://dotnettutorials.net/lesson/key-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 Key 属性](https://dotnettutorials.net/lesson/key-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 ForeignKey 属性](https://dotnettutorials.net/lesson/foreignkey-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 ForeignKey 属性](https://dotnettutorials.net/lesson/foreignkey-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 Index 属性](https://dotnettutorials.net/lesson/index-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 Index 属性](https://dotnettutorials.net/lesson/index-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 InverseProperty 属性](https://dotnettutorials.net/lesson/inverseproperty-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 InverseProperty 属性](https://dotnettutorials.net/lesson/inverseproperty-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 NotMapped 属性](https://dotnettutorials.net/lesson/notmapped-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 NotMapped 属性](https://dotnettutorials.net/lesson/notmapped-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的必需属性](https://dotnettutorials.net/lesson/required-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 Required 属性](https://dotnettutorials.net/lesson/required-attribute-in-entity-framework-core/)
 
 - [ ] [EF Core中的 MaxLength 和 MinLength 属性](https://dotnettutorials.net/lesson/maxlength-attribute-in-entity-framework-core/)
 
