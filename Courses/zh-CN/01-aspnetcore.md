@@ -336,11 +336,11 @@
 
 - [x] [EF Core中的 Required 属性](https://dotnettutorials.net/lesson/required-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 MaxLength 和 MinLength 属性](https://dotnettutorials.net/lesson/maxlength-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 MaxLength 和 MinLength 属性](https://dotnettutorials.net/lesson/maxlength-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 DatabaseGenerated 属性](https://dotnettutorials.net/lesson/databasegenerated-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 DatabaseGenerated 属性](https://dotnettutorials.net/lesson/databasegenerated-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 TimeStamp 属性](https://dotnettutorials.net/lesson/timestamp-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 TimeStamp 属性](https://dotnettutorials.net/lesson/timestamp-attribute-in-entity-framework-core/)
 
 - [ ] [EF Core中的 ConcurrencyCheck 属性](https://dotnettutorials.net/lesson/concurrencycheck-attribute-in-entity-framework-core/)
 
@@ -382,7 +382,7 @@
 
 - [ ] [EF Core中的存储过程](https://dotnettutorials.net/lesson/stored-procedures-in-entity-framework-core/)
 
-- [ ] [实体框架核心继承](https://dotnettutorials.net/lesson/entity-framework-core-inheritance/)
+- [ ] [EF Core继承](https://dotnettutorials.net/lesson/entity-framework-core-inheritance/)
 
 - [ ] [EF Core中每个层次结构的表继承](https://dotnettutorials.net/lesson/table-per-hierarchy-inheritance-in-entity-framework-core/)
 

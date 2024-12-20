@@ -16,5 +16,5 @@
 | MaxLength | `[MaxLength(100)]` | 属性 | 是 | 限制字符串或数组的最大长度，并设置数据库中相应列的最大大小 |
 | MinLength | `[MinLength(10)]` | 属性 | 否 | 指定属性中数组或字符串的最小长度，模型验证 |
 | DatabaseGenerated | `[DatabaseGenerated(DatabaseGeneratedOption.Identity)]` | 属性 | 是 | 指定数据库如何生成值<br>`None`：从不<br>`Identity`：Insert时生成<br>`Computed`：Insert和Update时生成 |
-| Timestamp | `[Timestamp]` | 属性 | 是 | 标记属性为并发令牌，通常用于乐观并发控制 |
-| ConcurrencyCheck | `[ConcurrencyCheck]` | 属性 | 是 | 标记属性参与乐观并发检查 |
+| Timestamp | `[Timestamp]` | 属性 | 是 | 标记单个`Byte[]`类型属性参与乐观并发控制 |
+| ConcurrencyCheck | `[ConcurrencyCheck]` | 属性 | 是 | 标记多个属性参与乐观并发检查 |
