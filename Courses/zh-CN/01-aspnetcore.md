@@ -346,21 +346,21 @@
 
 - [x] [EF Core中的 Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-entity-framework-core/)
 
-- [ ] [EF Core中的关系](https://dotnettutorials.net/lesson/relationships-in-entity-framework-core/)
+- [x] [EF Core中的关系](https://dotnettutorials.net/lesson/relationships-in-entity-framework-core/)
 
-- [ ] [EF Core中的一对一关系](https://dotnettutorials.net/lesson/one-to-one-relationships-in-entity-framework-core/)
+- [x] [EF Core中的一对一关系](https://dotnettutorials.net/lesson/one-to-one-relationships-in-entity-framework-core/)
 
-- [ ] [EF Core中的一对多关系](https://dotnettutorials.net/lesson/one-to-many-relationships-in-entity-framework-core/)
+- [x] [EF Core中的一对多关系](https://dotnettutorials.net/lesson/one-to-many-relationships-in-entity-framework-core/)
 
-- [ ] [EF Core中的多对多关系](https://dotnettutorials.net/lesson/many-to-many-relationships-in-entity-framework-core/)
+- [x] [EF Core中的多对多关系](https://dotnettutorials.net/lesson/many-to-many-relationships-in-entity-framework-core/)
 
-- [ ] [EF Core中的自引用关系](https://dotnettutorials.net/lesson/self-referencing-relationship-in-entity-framework-core/)
+- [x] [EF Core中的自引用关系](https://dotnettutorials.net/lesson/self-referencing-relationship-in-entity-framework-core/)
 
-- [ ] [使用 Fluent API 的EF Core 中的全局配置](https://dotnettutorials.net/lesson/global-configurations-in-entity-framework-core-using-fluent-api/)
+- [ ] [在 EF Core中使用 Fluent API 进行全局配置](https://dotnettutorials.net/lesson/global-configurations-in-entity-framework-core-using-fluent-api/)
 
-- [ ] [使用 EF Core Fluent API 的实体配置](https://dotnettutorials.net/lesson/entity-configurations-using-entity-framework-core-fluent-api/)
+- [ ] [在 EF Core中使用 Fluent API 进行实体配置](https://dotnettutorials.net/lesson/entity-configurations-using-entity-framework-core-fluent-api/)
 
-- [ ] [使用 Fluent API 在EF Core 中配置属性](https://dotnettutorials.net/lesson/property-configuration-using-entity-framework-core-fluent-api/)
+- [ ] [在 EF Core中使用 Fluent API 进行属性配置](https://dotnettutorials.net/lesson/property-configuration-using-entity-framework-core-fluent-api/)
 
 - [ ] [使用 Fluent API 的 EFCore 中的非主键表](https://dotnettutorials.net/lesson/primary-key-and-composite-primary-key-using-entity-framework-core-fluent-api/)
 
