@@ -356,9 +356,9 @@
 
 - [x] [EF Core中的自引用关系](https://dotnettutorials.net/lesson/self-referencing-relationship-in-entity-framework-core/)
 
-- [ ] [在 EF Core中使用 Fluent API 进行全局配置](https://dotnettutorials.net/lesson/global-configurations-in-entity-framework-core-using-fluent-api/)
+- [x] [在 EF Core中使用 Fluent API 进行全局配置](https://dotnettutorials.net/lesson/global-configurations-in-entity-framework-core-using-fluent-api/)
 
-- [ ] [在 EF Core中使用 Fluent API 进行实体配置](https://dotnettutorials.net/lesson/entity-configurations-using-entity-framework-core-fluent-api/)
+- [x] [在 EF Core中使用 Fluent API 进行实体配置](https://dotnettutorials.net/lesson/entity-configurations-using-entity-framework-core-fluent-api/)
 
 - [ ] [在 EF Core中使用 Fluent API 进行属性配置](https://dotnettutorials.net/lesson/property-configuration-using-entity-framework-core-fluent-api/)
 
