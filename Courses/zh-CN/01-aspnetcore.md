@@ -342,9 +342,9 @@
 
 - [x] [EF Core中的 TimeStamp 属性](https://dotnettutorials.net/lesson/timestamp-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 ConcurrencyCheck 属性](https://dotnettutorials.net/lesson/concurrencycheck-attribute-in-entity-framework-core/)
+- [x] [EF Core中的 ConcurrencyCheck 属性](https://dotnettutorials.net/lesson/concurrencycheck-attribute-in-entity-framework-core/)
 
-- [ ] [EF Core中的 Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-entity-framework-core/)
+- [x] [EF Core中的 Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-entity-framework-core/)
 
 - [ ] [EF Core中的关系](https://dotnettutorials.net/lesson/relationships-in-entity-framework-core/)
 
