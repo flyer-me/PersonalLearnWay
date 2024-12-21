@@ -34,7 +34,7 @@
 
 - [x] [ASP.NET Core Main方法](https://dotnettutorials.net/lesson/asp-net-core-main-method/)
 
-- [x] [ASP.NET Core  InProcess托管](https://dotnettutorials.net/lesson/asp-net-core-inprocess-hosting/)
+- [x] [ASP.NET Core InProcess托管](https://dotnettutorials.net/lesson/asp-net-core-inprocess-hosting/)
 
 - [x] [ASP.NET Core 中的Kestrel Web 服务器](https://dotnettutorials.net/lesson/kestrel-web-server-asp-net-core/)
 
@@ -298,105 +298,105 @@
 
 - [x] [安装 EF Core](https://dotnettutorials.net/lesson/install-entity-framework-core/)
 
-- [x] [EF Core中的 DbContext](https://dotnettutorials.net/lesson/dbcontext-entity-framework-core/)
+- [x] [EF Core DbContext](https://dotnettutorials.net/lesson/dbcontext-entity-framework-core/)
 
-- [x] [EF Core中的数据库连接字符串](https://dotnettutorials.net/lesson/database-connection-string-in-entity-framework-core/)
+- [x] [EF Core 数据库连接字符串](https://dotnettutorials.net/lesson/database-connection-string-in-entity-framework-core/)
 
-- [x] [EF Core中的 CRUD 操作](https://dotnettutorials.net/lesson/crud-operations-in-entity-framework-core/)
+- [x] [EF Core CRUD 操作](https://dotnettutorials.net/lesson/crud-operations-in-entity-framework-core/)
 
-- [x] [EF Core中的实体状态](https://dotnettutorials.net/lesson/entity-states-in-entity-framework-core/)
+- [x] [EF Core 实体状态](https://dotnettutorials.net/lesson/entity-states-in-entity-framework-core/)
 
-- [x] [EF Core中的 LINQ to Entities](https://dotnettutorials.net/lesson/linq-to-entities-in-entity-framework-core/)
+- [x] [EF Core LINQ to Entities](https://dotnettutorials.net/lesson/linq-to-entities-in-entity-framework-core/)
 
 - [x] [使用 EF Core CodeFirst 方法设计数据库](https://dotnettutorials.net/lesson/student-management-application-using-ef-core-code-first-approach/)
 
-- [x] [EF Core中的预先加载](https://dotnettutorials.net/lesson/eager-loading-in-entity-framework-core/)
+- [x] [EF Core 预先加载](https://dotnettutorials.net/lesson/eager-loading-in-entity-framework-core/)
 
-- [x] [EF Core中的延迟加载](https://dotnettutorials.net/lesson/lazy-loading-in-entity-framework-core/)
+- [x] [EF Core 延迟加载](https://dotnettutorials.net/lesson/lazy-loading-in-entity-framework-core/)
 
-- [x] [EF Core中的显式加载](https://dotnettutorials.net/lesson/explicit-loading-in-entity-framework-core/)
+- [x] [EF Core 显式加载](https://dotnettutorials.net/lesson/explicit-loading-in-entity-framework-core/)
 
-- [x] [EF Core中的默认约定](https://dotnettutorials.net/lesson/default-conventions-in-entity-framework-core/)
+- [x] [EF Core 默认约定](https://dotnettutorials.net/lesson/default-conventions-in-entity-framework-core/)
 
-- [x] [EF Core中的数据注释](https://dotnettutorials.net/lesson/data-annotation-attributes-in-entity-framework-core/)
+- [x] [EF Core 数据注释](https://dotnettutorials.net/lesson/data-annotation-attributes-in-entity-framework-core/)
 
-- [x] [EF Core中的 Table 属性](https://dotnettutorials.net/lesson/table-attribute-in-entity-framework-core/)
+- [x] [EF Core Table 属性](https://dotnettutorials.net/lesson/table-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 Column 属性](https://dotnettutorials.net/lesson/column-attribute-in-entity-framework-core/)
+- [x] [EF Core Column 属性](https://dotnettutorials.net/lesson/column-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 Key 属性](https://dotnettutorials.net/lesson/key-attribute-in-entity-framework-core/)
+- [x] [EF Core Key 属性](https://dotnettutorials.net/lesson/key-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 ForeignKey 属性](https://dotnettutorials.net/lesson/foreignkey-attribute-in-entity-framework-core/)
+- [x] [EF Core ForeignKey 属性](https://dotnettutorials.net/lesson/foreignkey-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 Index 属性](https://dotnettutorials.net/lesson/index-attribute-in-entity-framework-core/)
+- [x] [EF Core Index 属性](https://dotnettutorials.net/lesson/index-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 InverseProperty 属性](https://dotnettutorials.net/lesson/inverseproperty-attribute-in-entity-framework-core/)
+- [x] [EF Core InverseProperty 属性](https://dotnettutorials.net/lesson/inverseproperty-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 NotMapped 属性](https://dotnettutorials.net/lesson/notmapped-attribute-in-entity-framework-core/)
+- [x] [EF Core NotMapped 属性](https://dotnettutorials.net/lesson/notmapped-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 Required 属性](https://dotnettutorials.net/lesson/required-attribute-in-entity-framework-core/)
+- [x] [EF Core Required 属性](https://dotnettutorials.net/lesson/required-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 MaxLength 和 MinLength 属性](https://dotnettutorials.net/lesson/maxlength-attribute-in-entity-framework-core/)
+- [x] [EF Core MaxLength 和 MinLength 属性](https://dotnettutorials.net/lesson/maxlength-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 DatabaseGenerated 属性](https://dotnettutorials.net/lesson/databasegenerated-attribute-in-entity-framework-core/)
+- [x] [EF Core DatabaseGenerated 属性](https://dotnettutorials.net/lesson/databasegenerated-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 TimeStamp 属性](https://dotnettutorials.net/lesson/timestamp-attribute-in-entity-framework-core/)
+- [x] [EF Core TimeStamp 属性](https://dotnettutorials.net/lesson/timestamp-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 ConcurrencyCheck 属性](https://dotnettutorials.net/lesson/concurrencycheck-attribute-in-entity-framework-core/)
+- [x] [EF Core ConcurrencyCheck 属性](https://dotnettutorials.net/lesson/concurrencycheck-attribute-in-entity-framework-core/)
 
-- [x] [EF Core中的 Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-entity-framework-core/)
+- [x] [EF Core Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-entity-framework-core/)
 
-- [x] [EF Core中的关系](https://dotnettutorials.net/lesson/relationships-in-entity-framework-core/)
+- [x] [EF Core 关系](https://dotnettutorials.net/lesson/relationships-in-entity-framework-core/)
 
-- [x] [EF Core中的一对一关系](https://dotnettutorials.net/lesson/one-to-one-relationships-in-entity-framework-core/)
+- [x] [EF Core 一对一关系](https://dotnettutorials.net/lesson/one-to-one-relationships-in-entity-framework-core/)
 
-- [x] [EF Core中的一对多关系](https://dotnettutorials.net/lesson/one-to-many-relationships-in-entity-framework-core/)
+- [x] [EF Core 一对多关系](https://dotnettutorials.net/lesson/one-to-many-relationships-in-entity-framework-core/)
 
-- [x] [EF Core中的多对多关系](https://dotnettutorials.net/lesson/many-to-many-relationships-in-entity-framework-core/)
+- [x] [EF Core 多对多关系](https://dotnettutorials.net/lesson/many-to-many-relationships-in-entity-framework-core/)
 
-- [x] [EF Core中的自引用关系](https://dotnettutorials.net/lesson/self-referencing-relationship-in-entity-framework-core/)
+- [x] [EF Core 自引用关系](https://dotnettutorials.net/lesson/self-referencing-relationship-in-entity-framework-core/)
 
-- [x] [在 EF Core中使用 Fluent API 进行全局配置](https://dotnettutorials.net/lesson/global-configurations-in-entity-framework-core-using-fluent-api/)
+- [x] [在 EF Core 中使用 Fluent API 进行全局配置](https://dotnettutorials.net/lesson/global-configurations-in-entity-framework-core-using-fluent-api/)
 
-- [x] [在 EF Core中使用 Fluent API 进行实体配置](https://dotnettutorials.net/lesson/entity-configurations-using-entity-framework-core-fluent-api/)
+- [x] [在 EF Core 中使用 Fluent API 进行实体配置](https://dotnettutorials.net/lesson/entity-configurations-using-entity-framework-core-fluent-api/)
 
-- [ ] [在 EF Core中使用 Fluent API 进行属性配置](https://dotnettutorials.net/lesson/property-configuration-using-entity-framework-core-fluent-api/)
+- [x] [在 EF Core 中使用 Fluent API 进行属性配置](https://dotnettutorials.net/lesson/property-configuration-using-entity-framework-core-fluent-api/)
 
-- [ ] [使用 Fluent API 的 EFCore 中的非主键表](https://dotnettutorials.net/lesson/primary-key-and-composite-primary-key-using-entity-framework-core-fluent-api/)
+- [ ] [在 EFCore 中使用 Fluent API 创建非主键表](https://dotnettutorials.net/lesson/primary-key-and-composite-primary-key-using-entity-framework-core-fluent-api/)
 
 - [ ] [使用 EF Core 进行异步编程](https://dotnettutorials.net/lesson/asynchronous-programming-with-entity-framework-core/)
 
-- [ ] [EF Core中的批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core/)
+- [ ] [EF Core 批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core/)
 
 - [ ] [使用Z.EntityFramework.Extensions.EFCore 扩展的批量操作](https://dotnettutorials.net/lesson/bulk-operations-using-entity-framework-core-extension/)
 
 - [ ] [在 EF Core 中使用 EFCore.BulkExtensions 的批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core-using-efcore-bulkextensions/)
 
-- [ ] [EF Core中的批量操作性能基准](https://dotnettutorials.net/lesson/bulk-operations-performance-benchmark-in-entity-framework-core/)
+- [ ] [EF Core 批量操作性能基准](https://dotnettutorials.net/lesson/bulk-operations-performance-benchmark-in-entity-framework-core/)
 
-- [ ] [EF Core中断开连接的实体](https://dotnettutorials.net/lesson/disconnected-entities-in-entity-framework-core/)
+- [ ] [EF Core 中断开连接的实体](https://dotnettutorials.net/lesson/disconnected-entities-in-entity-framework-core/)
 
 - [ ] [使用 Job Scheduler进行批处理](https://dotnettutorials.net/lesson/batch-processing-with-job-scheduler/)
 
-- [ ] [EF Core中断开连接的实体图](https://dotnettutorials.net/lesson/entity-graph-in-entity-framework-core/)
+- [ ] [EF Core 中断开连接的实体图](https://dotnettutorials.net/lesson/entity-graph-in-entity-framework-core/)
 
-- [ ] [EF Core中的存储过程](https://dotnettutorials.net/lesson/stored-procedures-in-entity-framework-core/)
+- [ ] [EF Core 存储过程](https://dotnettutorials.net/lesson/stored-procedures-in-entity-framework-core/)
 
 - [ ] [EF Core继承](https://dotnettutorials.net/lesson/entity-framework-core-inheritance/)
 
-- [ ] [EF Core中每个层次结构的表继承](https://dotnettutorials.net/lesson/table-per-hierarchy-inheritance-in-entity-framework-core/)
+- [ ] [EF Core 中每个层次结构的表继承](https://dotnettutorials.net/lesson/table-per-hierarchy-inheritance-in-entity-framework-core/)
 
-- [ ] [EF Core中每个类型的表继承](https://dotnettutorials.net/lesson/table-per-type-inheritance-in-entity-framework-core/)
+- [ ] [EF Core 中每个类型的表继承](https://dotnettutorials.net/lesson/table-per-type-inheritance-in-entity-framework-core/)
 
-- [ ] [EF Core中每个具体类型继承的表](https://dotnettutorials.net/lesson/table-per-concrete-type-inheritance-in-entity-framework-core/)
+- [ ] [EF Core 中每个具体类型继承的表](https://dotnettutorials.net/lesson/table-per-concrete-type-inheritance-in-entity-framework-core/)
 
-- [ ] [EF Core中的事务](https://dotnettutorials.net/lesson/transactions-in-entity-framework-core/)
+- [ ] [EF Core 事务](https://dotnettutorials.net/lesson/transactions-in-entity-framework-core/)
 
 - [ ] [在 EF Core 中设定数据种子](https://dotnettutorials.net/lesson/seed-data-in-entity-framework-core/)
 
-- [ ] [EF Core中的影子属性](https://dotnettutorials.net/lesson/shadow-properties-in-entity-framework-core/)
+- [ ] [EF Core 影子属性](https://dotnettutorials.net/lesson/shadow-properties-in-entity-framework-core/)
 
-- [ ] [EF Core中的全局查询筛选器](https://dotnettutorials.net/lesson/global-query-filters-in-entity-framework-core/)
+- [ ] [EF Core 全局查询筛选器](https://dotnettutorials.net/lesson/global-query-filters-in-entity-framework-core/)
 
 - [ ] [EF Core数据库优先方法](https://dotnettutorials.net/lesson/entity-framework-core-database-first-approach/)
 
