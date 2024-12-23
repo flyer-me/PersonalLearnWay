@@ -362,7 +362,7 @@
 
 - [x] [在 EF Core 中使用 Fluent API 进行属性配置](https://dotnettutorials.net/lesson/property-configuration-using-entity-framework-core-fluent-api/)
 
-- [ ] [在 EFCore 中使用 Fluent API 创建非主键表](https://dotnettutorials.net/lesson/primary-key-and-composite-primary-key-using-entity-framework-core-fluent-api/)
+- [x] [在 EFCore 中使用 Fluent API 创建无主键表](https://dotnettutorials.net/lesson/primary-key-and-composite-primary-key-using-entity-framework-core-fluent-api/)
 
 - [ ] [使用 EF Core 进行异步编程](https://dotnettutorials.net/lesson/asynchronous-programming-with-entity-framework-core/)
 

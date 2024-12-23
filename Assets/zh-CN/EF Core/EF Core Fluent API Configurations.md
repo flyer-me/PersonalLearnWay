@@ -7,6 +7,7 @@
 | 数据库架构 | `modelBuilder.HasDefaultSchema("sales")` | 指定用于所有表、存储过程等的数据库架构，除非有特定实体显式配置 |
 | `Entity` | `entity.ToTable("tblUser", schema: "Admin")` | 配置表名、架构 |
 | `Entity` | `entity.HasKey(u=> u.UserId)` | 配置主键 |
+| `Entity` | `entity.HasNoKey()` | 配置无主键表；<br>`Entity`不应使用其他约定配置主键 |
 | `Entity` | `entity.HasKey(fp => new { fp.FormId, fp.PostId })` | 配置复合主键 |
 | `Entity` | `modelBuilder.Ignore<Log>()` | 排除实体，不映射到数据库表 |
 | `Entity` | `entity.OwnsOne(u=> u.Address)` | 从属实体：由另一个实体拥有，其属性映射到所有者表中的列，没有自己的表 |
