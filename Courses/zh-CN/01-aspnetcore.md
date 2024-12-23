@@ -364,9 +364,9 @@
 
 - [x] [在 EFCore 中使用 Fluent API 创建无主键表](https://dotnettutorials.net/lesson/primary-key-and-composite-primary-key-using-entity-framework-core-fluent-api/)
 
-- [ ] [使用 EF Core 进行异步编程](https://dotnettutorials.net/lesson/asynchronous-programming-with-entity-framework-core/)
+- [x] [使用 EF Core 进行异步编程](https://dotnettutorials.net/lesson/asynchronous-programming-with-entity-framework-core/)
 
-- [ ] [EF Core 批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core/)
+- [x] [EF Core 批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core/)
 
 - [ ] [使用Z.EntityFramework.Extensions.EFCore 扩展的批量操作](https://dotnettutorials.net/lesson/bulk-operations-using-entity-framework-core-extension/)
 
