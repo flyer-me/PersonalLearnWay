@@ -368,9 +368,9 @@
 
 - [x] [EF Core 批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core/)
 
-- [ ] [使用Z.EntityFramework.Extensions.EFCore 扩展的批量操作](https://dotnettutorials.net/lesson/bulk-operations-using-entity-framework-core-extension/)
+- [x] [使用Z.EntityFramework.Extensions.EFCore 扩展的批量操作](https://dotnettutorials.net/lesson/bulk-operations-using-entity-framework-core-extension/)
 
-- [ ] [在 EF Core 中使用 EFCore.BulkExtensions 的批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core-using-efcore-bulkextensions/)
+- [x] [在 EF Core 中使用 EFCore.BulkExtensions 的批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core-using-efcore-bulkextensions/)
 
 - [ ] [EF Core 批量操作性能基准](https://dotnettutorials.net/lesson/bulk-operations-performance-benchmark-in-entity-framework-core/)
 
