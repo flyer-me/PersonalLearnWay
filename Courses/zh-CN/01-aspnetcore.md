@@ -372,17 +372,15 @@
 
 - [x] [在 EF Core 中使用 EFCore.BulkExtensions 的批量操作](https://dotnettutorials.net/lesson/bulk-operations-in-entity-framework-core-using-efcore-bulkextensions/)
 
-- [ ] [EF Core 批量操作性能基准](https://dotnettutorials.net/lesson/bulk-operations-performance-benchmark-in-entity-framework-core/)
+- [x] [EF Core 批量操作性能基准](https://dotnettutorials.net/lesson/bulk-operations-performance-benchmark-in-entity-framework-core/)
 
-- [ ] [EF Core 中断开连接的实体](https://dotnettutorials.net/lesson/disconnected-entities-in-entity-framework-core/)
+- [x] [EF Core 中断开连接的实体](https://dotnettutorials.net/lesson/disconnected-entities-in-entity-framework-core/)
 
-- [ ] [使用 Job Scheduler进行批处理](https://dotnettutorials.net/lesson/batch-processing-with-job-scheduler/)
-
-- [ ] [EF Core 中断开连接的实体图](https://dotnettutorials.net/lesson/entity-graph-in-entity-framework-core/)
+- [x] [EF Core 中断开连接的实体图](https://dotnettutorials.net/lesson/entity-graph-in-entity-framework-core/)
 
 - [ ] [EF Core 存储过程](https://dotnettutorials.net/lesson/stored-procedures-in-entity-framework-core/)
 
-- [ ] [EF Core继承](https://dotnettutorials.net/lesson/entity-framework-core-inheritance/)
+- [ ] [EF Core 继承](https://dotnettutorials.net/lesson/entity-framework-core-inheritance/)
 
 - [ ] [EF Core 中每个层次结构的表继承](https://dotnettutorials.net/lesson/table-per-hierarchy-inheritance-in-entity-framework-core/)
 
@@ -398,7 +396,7 @@
 
 - [ ] [EF Core 全局查询筛选器](https://dotnettutorials.net/lesson/global-query-filters-in-entity-framework-core/)
 
-- [ ] [EF Core数据库优先方法](https://dotnettutorials.net/lesson/entity-framework-core-database-first-approach/)
+- [ ] [EF Core 数据库优先方法](https://dotnettutorials.net/lesson/entity-framework-core-database-first-approach/)
 
 ### 16. 使用 EF Core ASP.NET Core MVC
 
