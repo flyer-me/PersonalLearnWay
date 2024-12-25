@@ -378,15 +378,9 @@
 
 - [x] [EF Core 中断开连接的实体图](https://dotnettutorials.net/lesson/entity-graph-in-entity-framework-core/)
 
-- [ ] [EF Core 存储过程](https://dotnettutorials.net/lesson/stored-procedures-in-entity-framework-core/)
+- [x] [EF Core 存储过程](https://dotnettutorials.net/lesson/stored-procedures-in-entity-framework-core/)
 
-- [ ] [EF Core 继承](https://dotnettutorials.net/lesson/entity-framework-core-inheritance/)
-
-- [ ] [EF Core 中每个层次结构的表继承](https://dotnettutorials.net/lesson/table-per-hierarchy-inheritance-in-entity-framework-core/)
-
-- [ ] [EF Core 中每个类型的表继承](https://dotnettutorials.net/lesson/table-per-type-inheritance-in-entity-framework-core/)
-
-- [ ] [EF Core 中每个具体类型继承的表](https://dotnettutorials.net/lesson/table-per-concrete-type-inheritance-in-entity-framework-core/)
+- [x] [EF Core 继承](https://dotnettutorials.net/lesson/entity-framework-core-inheritance/)
 
 - [ ] [EF Core 事务](https://dotnettutorials.net/lesson/transactions-in-entity-framework-core/)
 
