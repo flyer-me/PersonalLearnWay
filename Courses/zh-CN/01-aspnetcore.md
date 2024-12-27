@@ -1,4 +1,4 @@
-## [ASP.NET Core 在线培训计划(Dot Net Tutorials)](https://dotnettutorials.net/lesson/asp-net-core-online-training/)
+## [ASP.NET Core (Dot Net Tutorials)](https://dotnettutorials.net/course/asp-net-core-tutorials/)
 
 ### 1. ASP.NET Core – 简介和环境设置
 
