@@ -382,27 +382,27 @@
 
 - [x] [EF Core 继承](https://dotnettutorials.net/lesson/entity-framework-core-inheritance/)
 
-- [ ] [EF Core 事务](https://dotnettutorials.net/lesson/transactions-in-entity-framework-core/)
+- [x] [EF Core 事务](https://dotnettutorials.net/lesson/transactions-in-entity-framework-core/)
 
-- [ ] [在 EF Core 中设定数据种子](https://dotnettutorials.net/lesson/seed-data-in-entity-framework-core/)
+- [x] [在 EF Core 中设定数据种子](https://dotnettutorials.net/lesson/seed-data-in-entity-framework-core/)
 
-- [ ] [EF Core 影子属性](https://dotnettutorials.net/lesson/shadow-properties-in-entity-framework-core/)
+- [x] [EF Core 影子属性](https://dotnettutorials.net/lesson/shadow-properties-in-entity-framework-core/)
 
-- [ ] [EF Core 全局查询筛选器](https://dotnettutorials.net/lesson/global-query-filters-in-entity-framework-core/)
+- [x] [EF Core 全局查询筛选器](https://dotnettutorials.net/lesson/global-query-filters-in-entity-framework-core/)
 
-- [ ] [EF Core 数据库优先方法](https://dotnettutorials.net/lesson/entity-framework-core-database-first-approach/)
+- [x] [EF Core 数据库优先方法](https://dotnettutorials.net/lesson/entity-framework-core-database-first-approach/)
 
 ### 16. 使用 EF Core ASP.NET Core MVC
 
-- [ ] [使用 EF Core 的 ASP.NET Core MVC 中的 CRUD 操作](https://dotnettutorials.net/lesson/asp-net-core-mvc-using-entity-framework-core/)
+- [x] [使用 EF Core 的 ASP.NET Core MVC 中的 CRUD 操作](https://dotnettutorials.net/lesson/asp-net-core-mvc-using-entity-framework-core/)
 
-- [ ] [使用 EF Core 的ASP.NET Core MVC 中的存储库设计模式](https://dotnettutorials.net/lesson/repository-design-pattern-in-asp-net-core-mvc/)
+- [x] [使用 EF Core 的ASP.NET Core MVC 中的存储库设计模式](https://dotnettutorials.net/lesson/repository-design-pattern-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的泛型存储库模式](https://dotnettutorials.net/lesson/generic-repository-pattern-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的泛型存储库模式](https://dotnettutorials.net/lesson/generic-repository-pattern-in-asp-net-core-mvc/)
 
-- [ ] [在 ASP.NET Core MVC 中同时使用泛型和非泛型存储库模式](https://dotnettutorials.net/lesson/generic-and-non-generic-repository-pattern-in-asp-net-core-mvc/)
+- [x] [在 ASP.NET Core MVC 中同时使用泛型和非泛型存储库模式](https://dotnettutorials.net/lesson/generic-and-non-generic-repository-pattern-in-asp-net-core-mvc/)
 
-- [ ] [使用 EF Core 的 ASP.NETCore MVC 中的工作单元模式](https://dotnettutorials.net/lesson/unit-of-work-pattern-in-asp-net-core-mvc-using-ef-core/)
+- [x] [使用 EF Core 的 ASP.NETCore MVC 中的工作单元模式](https://dotnettutorials.net/lesson/unit-of-work-pattern-in-asp-net-core-mvc-using-ef-core/)
 
 ### 17. ASP.NET Core MVC – 文件处理
 
