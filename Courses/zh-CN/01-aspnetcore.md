@@ -432,33 +432,33 @@
 
 - [ ] [在 ASP.NET CoreMVC 中发送带有附件的电子邮件](https://dotnettutorials.net/lesson/how-to-send-email-with-attachment-in-asp-net-core-mvc/)
 
-### 18. ASP.NET Core MVC – 高级
+### 18. ASP.NET Core MVC – 进阶
 
-- [ ] [ASP.NET Core MVC请求生命周期](https://dotnettutorials.net/lesson/asp-netcore-mvc-request-life-cycle/)
+- [x] [ASP.NET Core MVC请求生命周期](https://dotnettutorials.net/lesson/asp-netcore-mvc-request-life-cycle/)
 
-- [ ] [ASP.NET Core MVC 与 EFCore DB 优先方法](https://dotnettutorials.net/lesson/asp-net-core-mvc-with-ef-core-db-first/)
+- [x] [ASP.NET Core MVC 与 EFCore DB 优先方法](https://dotnettutorials.net/lesson/asp-net-core-mvc-with-ef-core-db-first/)
 
-- [ ] [ASP.NET Core MVC 中的捆绑和缩小](https://dotnettutorials.net/lesson/bundling-and-minification-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的捆绑和缩小](https://dotnettutorials.net/lesson/bundling-and-minification-in-asp-net-core-mvc/)
 
-- [ ] [使用 WebOptimizer 在ASP.NET Core 中进行捆绑和缩小](https://dotnettutorials.net/lesson/bundling-and-minification-in-asp-net-core-mvc-using-weboptimizer/)
+- [x] [使用 WebOptimizer 在ASP.NET Core 中进行捆绑和缩小](https://dotnettutorials.net/lesson/bundling-and-minification-in-asp-net-core-mvc-using-weboptimizer/)
 
-- [ ] [将 ASP.NET Core Web 应用程序托管到 IIS 服务器中](https://dotnettutorials.net/lesson/how-to-host-asp-net-core-web-app-into-local-iis-server/)
+- [x] [将 ASP.NET Core Web 应用程序托管到 IIS 服务器中](https://dotnettutorials.net/lesson/how-to-host-asp-net-core-web-app-into-local-iis-server/)
 
-- [ ] [在本地 IIS服务器中使用 SSL](https://dotnettutorials.net/lesson/how-to-use-ssl-in-local-iis-server/)
+- [x] [在本地 IIS服务器中使用 SSL](https://dotnettutorials.net/lesson/how-to-use-ssl-in-local-iis-server/)
 
-- [ ] [在 ASP.NET Core MVC 中对单个页面执行 CRUD 操作](https://dotnettutorials.net/lesson/crud-operation-on-a-single-page-in-asp-net-core-mvc/)
+- [x] [在 ASP.NET Core MVC 中对单个页面执行 CRUD 操作](https://dotnettutorials.net/lesson/crud-operation-on-a-single-page-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的级联下拉列表](https://dotnettutorials.net/lesson/cascading-dropdown-list-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的级联下拉列表](https://dotnettutorials.net/lesson/cascading-dropdown-list-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core RazorPages 应用程序](https://dotnettutorials.net/lesson/asp-net-core-razor-pages/)
+- [x] [ASP.NET Core RazorPages 应用程序](https://dotnettutorials.net/lesson/asp-net-core-razor-pages/)
 
-- [ ] [使用 ASP.NET Core MVC的员工门户应用程序](https://dotnettutorials.net/lesson/employee-portal-application-using-asp-net-core-mvc/)
+- [x] [使用 ASP.NET Core MVC的员工门户应用程序](https://dotnettutorials.net/lesson/employee-portal-application-using-asp-net-core-mvc/)
 
 ### 19. 使用 ASP.NET Core 的实时应用程序
 
-- [ ] [使用 ASP.NET Core MVC的库管理系统](https://dotnettutorials.net/lesson/library-management-system-using-asp-net-core-mvc/)
+- [x] [使用 ASP.NET Core MVC的库管理系统](https://dotnettutorials.net/lesson/library-management-system-using-asp-net-core-mvc/)
 
-- [ ] [使用 ASP.NET Core MVC的 Gmail 注册过程](https://dotnettutorials.net/lesson/gmail-registration-process-using-asp-net-core-mvc/)
+- [x] [使用 ASP.NET Core MVC的 Gmail 注册过程](https://dotnettutorials.net/lesson/gmail-registration-process-using-asp-net-core-mvc/)
 
 - [ ] [使用 ASP.NET Core MVC的博客管理应用程序](https://dotnettutorials.net/lesson/blog-management-application-using-asp-net-core-mvc/)
 
