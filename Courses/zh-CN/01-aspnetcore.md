@@ -460,8 +460,6 @@
 
 - [x] [使用 ASP.NET Core MVC的 Gmail 注册过程](https://dotnettutorials.net/lesson/gmail-registration-process-using-asp-net-core-mvc/)
 
-- [ ] [使用 ASP.NET Core MVC的博客管理应用程序](https://dotnettutorials.net/lesson/blog-management-application-using-asp-net-core-mvc/)
-
 ### 20. 面试问题和答案
 
 - [ ] [前 100 个 Entity Framework 核心面试问题和答案](https://dotnettutorials.net/lesson/top-100-entity-framework-core-interview-questions-and-answers/)
