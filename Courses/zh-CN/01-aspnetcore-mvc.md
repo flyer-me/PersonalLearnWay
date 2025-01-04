@@ -462,7 +462,7 @@
 
 ### 20. 面试问题和答案
 
-- [ ] [前 100 个 Entity Framework 核心面试问题和答案](https://dotnettutorials.net/lesson/top-100-entity-framework-core-interview-questions-and-answers/)
+- [x] [前 100 个 Entity Framework 核心面试问题和答案](https://dotnettutorials.net/lesson/top-100-entity-framework-core-interview-questions-and-answers/)
 
 - [ ] [ASP.NET Core基本面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-basic-interview-questions-and-answers/)
 
@@ -475,11 +475,3 @@
 - [ ] [ASP.NET Core MVC 中级面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-mvc-intermediate-interview-questions-and-answers/)
 
 - [ ] [ASP.NET Core MVC经验丰富的面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-mvc-experienced-interview-questions-and-answers/)
-
-### 21. ASP.NET Core 热门书籍
-
-- [ ] [最推荐的 ASP.NET Core书籍](https://dotnettutorials.net/lesson/most-recommended-asp-net-core-books/)
-
-- [ ] [最推荐的 EF Core 书籍](https://dotnettutorials.net/lesson/most-recommended-entity-framework-core-books/)
-
-- [ ] [最推荐的 ASP.NET CoreMVC 书籍](https://dotnettutorials.net/lesson/most-recommended-asp-net-core-mvc-books/)
