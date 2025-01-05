@@ -1,10 +1,10 @@
 ### 1. ASP.NET Core标识
     
-- [ ] [ASP.NET Core Identity 开始使用](https://dotnettutorials.net/lesson/asp-net-core-identity-setup/)
+- [x] [ASP.NET Core Identity 开始使用](https://dotnettutorials.net/lesson/asp-net-core-identity-setup/)
     
-- [ ] [ASP.NET Core Identity 数据表](https://dotnettutorials.net/lesson/asp-net-core-identity-tables/)
+- [x] [ASP.NET Core Identity 数据表](https://dotnettutorials.net/lesson/asp-net-core-identity-tables/)
     
-- [ ] [ASP.NET Core身份中的 UserManager SignInManager RoleManager](https://dotnettutorials.net/lesson/usermanager-signinmanager-rolemanager-in-asp-net-core-identity/)
+- [ ] [ASP.NET Core Identity 中的 UserManager SignInManager RoleManager](https://dotnettutorials.net/lesson/usermanager-signinmanager-rolemanager-in-asp-net-core-identity/)
     
 - [ ] [使用 ASP.NET Core Identity 注册新用户](https://dotnettutorials.net/lesson/register-new-user-using-asp-net-core-identity/)
     
@@ -22,19 +22,19 @@
     
 - [ ] [在 ASP.NET Core Identity 中自定义 AspNetRoles 表](https://dotnettutorials.net/lesson/customizing-aspnetroles-table-in-asp-net-core-identity/)
     
-- [ ] [如何在 ASP.NET Core Identity 中的角色中添加或删除用户](https://dotnettutorials.net/lesson/how-to-add-or-remove-users-from-role-in-asp-net-core-identity/)
+- [ ] [在 ASP.NET Core Identity 中的角色中添加或删除用户](https://dotnettutorials.net/lesson/how-to-add-or-remove-users-from-role-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET 基于核心身份角色的授权](https://dotnettutorials.net/lesson/asp-net-core-identity-role-based-authorization/)
+- [ ] [ASP.NET Core Identity 基于角色的授权](https://dotnettutorials.net/lesson/asp-net-core-identity-role-based-authorization/)
     
 - [ ] [根据 ASP.NET Core Identity 中的用户角色显示或隐藏导航菜单](https://dotnettutorials.net/lesson/show-or-hide-navigation-menu-based-on-user-role-in-asp-net-coreidentity/)
     
-- [ ] [如何显示 ASP.NET Core Identity Database 中的所有用户](https://dotnettutorials.net/lesson/how-to-display-all-users-from-asp-net-core-identity-database/)
+- [ ] [显示 ASP.NET Core Identity Database 中的所有用户](https://dotnettutorials.net/lesson/how-to-display-all-users-from-asp-net-core-identity-database/)
     
-- [ ] [如何编辑 ASP.NET Core身份用户](https://dotnettutorials.net/lesson/how-to-edit-asp-net-core-identity-user/)
+- [ ] [编辑 ASP.NET Core Identity用户](https://dotnettutorials.net/lesson/how-to-edit-asp-net-core-identity-user/)
     
-- [ ] [如何删除 ASP.NET Core身份用户](https://dotnettutorials.net/lesson/how-to-delete-asp-net-core-identity-user/)
+- [ ] [删除 ASP.NET Core Identity用户](https://dotnettutorials.net/lesson/how-to-delete-asp-net-core-identity-user/)
     
-- [ ] [如何在 ASP.NET Core Identity 中强制执行 ON DELETE NO ACTION](https://dotnettutorials.net/lesson/how-to-enforce-on-delete-no-action-in-asp-net-core-identity/)
+- [ ] [在 ASP.NET Core Identity 中强制执行 ON DELETE NO ACTION](https://dotnettutorials.net/lesson/how-to-enforce-on-delete-no-action-in-asp-net-core-identity/)
     
 - [ ] [在 ASP.NET Core Identity 中添加或删除用户的角色](https://dotnettutorials.net/lesson/add-or-remove-roles-from-a-user-in-asp-net-core-identity/)
     
@@ -52,9 +52,9 @@
 
 ### 2. ASP.NET Core Identity – 外部提供商
     
-- [ ] [ASP.NET Core 中的外部身份提供商](https://dotnettutorials.net/lesson/external-identity-providers-in-asp-net-core/)
+- [ ] [ASP.NET Core 中的外部 Identity 提供商](https://dotnettutorials.net/lesson/external-identity-providers-in-asp-net-core/)
     
-- [ ] [如何创建 Google OAuth 凭据](https://dotnettutorials.net/lesson/how-to-create-google-oauth-credentials/)
+- [ ] [Google OAuth 凭据](https://dotnettutorials.net/lesson/how-to-create-google-oauth-credentials/)
     
 - [ ] [ASP.NET Core MVC 中的 Google 身份验证](https://dotnettutorials.net/lesson/google-authentication-in-asp-net-core-mvc/)
     
@@ -78,17 +78,17 @@
     
 - [ ] [如果电子邮件未在 ASP.NET Core Identity 中确认，则阻止登录](https://dotnettutorials.net/lesson/block-login-if-email-not-confirmed-in-asp-net-core-identity/)
     
-- [ ] [忘记 ASP.NET Core身份中的密码](https://dotnettutorials.net/lesson/forgot-password-in-asp-net-core-identity/)
+- [ ] [忘记 ASP.NET Core Identity中的密码](https://dotnettutorials.net/lesson/forgot-password-in-asp-net-core-identity/)
     
-- [ ] [如何在 ASP.NET Core Identity 中存储令牌](https://dotnettutorials.net/lesson/how-to-store-tokens-in-asp-net-core-identity/)
+- [ ] [在 ASP.NET Core Identity 中存储令牌](https://dotnettutorials.net/lesson/how-to-store-tokens-in-asp-net-core-identity/)
     
-- [ ] [更改 ASP.NET Core身份中的密码](https://dotnettutorials.net/lesson/change-password-in-asp-net-core-identity/)
+- [ ] [更改 ASP.NET Core Identity中的密码](https://dotnettutorials.net/lesson/change-password-in-asp-net-core-identity/)
     
 - [ ] [将密码添加到链接到外部登录的本地帐户](https://dotnettutorials.net/lesson/add-password-to-local-account-linked-to-external-login-in-asp-net-core-identity/)
     
 - [ ] [ASP.NET Core Identity 中的帐户锁定](https://dotnettutorials.net/lesson/account-lockout-in-asp-net-core-identity/)
     
-- [ ] [如何在 ASP.NET Core 中发送短信](https://dotnettutorials.net/lesson/how-to-send-sms-in-asp-net-core/)
+- [ ] [在 ASP.NET Core 中发送短信](https://dotnettutorials.net/lesson/how-to-send-sms-in-asp-net-core/)
     
 - [ ] [验证 ASP.NET Core Identity 中的电话号码](https://dotnettutorials.net/lesson/verify-phone-number-in-asp-net-core-identity/)
     
@@ -96,7 +96,7 @@
     
 - [ ] [ASP.NET Core Identity 中的密码过期策略](https://dotnettutorials.net/lesson/password-expiration-policy-in-asp-net-core-identity/)
 
-### 4. ASP.NET Core身份 - 面试问题和答案
+### 4. ASP.NET Core Identity - 面试问题和答案
     
 - [ ] [ASP.NET Core Identity Basic 面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-identity-basic-interview-questions-and-answers/)
     

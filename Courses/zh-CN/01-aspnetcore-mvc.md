@@ -68,11 +68,11 @@
 
 - [x] [AddController 与 AddMvc与 AddControllersWithViews 与 AddRazorPages](https://dotnettutorials.net/lesson/difference-between-addmvc-and-addmvccore-method/)
 
-- [x] [ASP.NET Core MVC 中的控制器](https://dotnettutorials.net/lesson/controllers-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 控制器](https://dotnettutorials.net/lesson/controllers-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的模型](https://dotnettutorials.net/lesson/model-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 模型](https://dotnettutorials.net/lesson/model-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的视图](https://dotnettutorials.net/lesson/views-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 视图](https://dotnettutorials.net/lesson/views-asp-net-core-mvc/)
 
 - [x] [ASP.NET Core依赖注入](https://dotnettutorials.net/lesson/asp-net-core-dependency-injection/)
 
@@ -82,27 +82,27 @@
 
 - [x] [使用 MVC 模板 ASP.NETCore 应用程序](https://dotnettutorials.net/lesson/asp-net-core-application-using-mvc-template/)
 
-- [x] [ASP.NET Core MVC 中的ViewData](https://dotnettutorials.net/lesson/viewdata-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC ViewData](https://dotnettutorials.net/lesson/viewdata-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的ViewBag](https://dotnettutorials.net/lesson/viewbag-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC ViewBag](https://dotnettutorials.net/lesson/viewbag-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的强类型视图](https://dotnettutorials.net/lesson/strongly-typed-view-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 强类型视图](https://dotnettutorials.net/lesson/strongly-typed-view-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的ViewModel](https://dotnettutorials.net/lesson/view-model-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC ViewModel](https://dotnettutorials.net/lesson/view-model-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的TempData](https://dotnettutorials.net/lesson/tempdata-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC TempData](https://dotnettutorials.net/lesson/tempdata-in-asp-net-core-mvc/)
 
 - [x] [ASP.NET Core 中的Post-Redirect-Get （PRG） 模式示例](https://dotnettutorials.net/lesson/post-redirect-get-prg-pattern-example-in-asp-net-core/)
 
 ### 5. ASP.NET Core MVC – 路由
 
-- [x] [ASP.NET Core MVC 中的路由](https://dotnettutorials.net/lesson/routing-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 路由](https://dotnettutorials.net/lesson/routing-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的自定义路由](https://dotnettutorials.net/lesson/custom-routing-inasp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 自定义路由](https://dotnettutorials.net/lesson/custom-routing-inasp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的自定义路由约束](https://dotnettutorials.net/lesson/custom-route-constraint-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 自定义路由约束](https://dotnettutorials.net/lesson/custom-route-constraint-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的属性路由](https://dotnettutorials.net/lesson/attribute-routing-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 属性路由](https://dotnettutorials.net/lesson/attribute-routing-in-asp-net-core-mvc/)
 
 - [x] [使用 Token 的 ASP.NET Core属性路由](https://dotnettutorials.net/lesson/asp-net-core-attribute-routing-using-tokens/)
 
@@ -110,19 +110,19 @@
 
 ### 6. ASP.NET Core MVC – 视图
 
-- [x] [ASP.NET Core MVC 中的布局视图](https://dotnettutorials.net/lesson/layout-view-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 布局视图](https://dotnettutorials.net/lesson/layout-view-in-asp-net-core-mvc/)
 
 - [x] [ASP.NET Core MVC 中布局视图中的节](https://dotnettutorials.net/lesson/sections-in-layout-view-in-asp-net-core-mvc/)
 
 - [x] [ASP.NETCore MVC 中的ViewStart](https://dotnettutorials.net/lesson/viewstart-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的ViewImports](https://dotnettutorials.net/lesson/viewimports-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC ViewImports](https://dotnettutorials.net/lesson/viewimports-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的分部视图](https://dotnettutorials.net/lesson/partial-views-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 分部视图](https://dotnettutorials.net/lesson/partial-views-in-asp-net-core-mvc/)
 
 - [x] [ASP.NET Core MVC 中呈现部分视图的不同方法](https://dotnettutorials.net/lesson/different-ways-to-render-partial-view-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的视图组件](https://dotnettutorials.net/lesson/view-components-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 视图组件](https://dotnettutorials.net/lesson/view-components-in-asp-net-core-mvc/)
 
 - [x] [ASP.NET Core 中的 Razor语法](https://dotnettutorials.net/lesson/razor-view-engine-and-razor-syntax-in-asp-net-core/)
 
@@ -132,51 +132,51 @@
 
 ### 7. ASP.NET Core MVC – 操作结果
 
-- [x] [ASP.NET Core MVC 中的Action Result](https://dotnettutorials.net/lesson/action-results-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Action Result](https://dotnettutorials.net/lesson/action-results-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的View Result](https://dotnettutorials.net/lesson/view-results-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC View Result](https://dotnettutorials.net/lesson/view-results-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的Partial View Result](https://dotnettutorials.net/lesson/partial-view-result-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Partial View Result](https://dotnettutorials.net/lesson/partial-view-result-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的JSON Result](https://dotnettutorials.net/lesson/json-result-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC JSON Result](https://dotnettutorials.net/lesson/json-result-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的Content Result](https://dotnettutorials.net/lesson/content-result-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Content Result](https://dotnettutorials.net/lesson/content-result-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的File Result](https://dotnettutorials.net/lesson/file-result-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC File Result](https://dotnettutorials.net/lesson/file-result-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的Redirect Result](https://dotnettutorials.net/lesson/redirect-results-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Redirect Result](https://dotnettutorials.net/lesson/redirect-results-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的Status Result](https://dotnettutorials.net/lesson/status-results-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Status Result](https://dotnettutorials.net/lesson/status-results-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的Object Result](https://dotnettutorials.net/lesson/object-result-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Object Result](https://dotnettutorials.net/lesson/object-result-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的EmptyResult](https://dotnettutorials.net/lesson/emptyresult-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC EmptyResult](https://dotnettutorials.net/lesson/emptyresult-in-asp-net-core-mvc/)
 
 ### 8. ASP.NET Core MVC – HTML 帮助程序
 
-- [x] [ASP.NET Core MVC 中的HTML 帮助程序](https://dotnettutorials.net/lesson/html-helpers-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC HTML 帮助程序](https://dotnettutorials.net/lesson/html-helpers-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的TextBox HTML 帮助程序](https://dotnettutorials.net/lesson/textbox-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC TextBox HTML 帮助程序](https://dotnettutorials.net/lesson/textbox-html-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的TextArea HTML 帮助程序](https://dotnettutorials.net/lesson/textarea-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC TextArea HTML 帮助程序](https://dotnettutorials.net/lesson/textarea-html-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的DropDownList HTML 帮助程序](https://dotnettutorials.net/lesson/dropdownlist-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC DropDownList HTML 帮助程序](https://dotnettutorials.net/lesson/dropdownlist-html-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的RadioButton HTML 帮助程序](https://dotnettutorials.net/lesson/radiobutton-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC RadioButton HTML 帮助程序](https://dotnettutorials.net/lesson/radiobutton-html-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的HTML 帮助程序复选框](https://dotnettutorials.net/lesson/check-box-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC HTML 帮助程序复选框](https://dotnettutorials.net/lesson/check-box-html-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的ListBox HTML 帮助程序](https://dotnettutorials.net/lesson/listbox-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC ListBox HTML 帮助程序](https://dotnettutorials.net/lesson/listbox-html-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的编辑器 HTML 帮助程序](https://dotnettutorials.net/lesson/editor-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 编辑器 HTML 帮助程序](https://dotnettutorials.net/lesson/editor-html-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的密码 HTML 帮助程序](https://dotnettutorials.net/lesson/password-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 密码 HTML 帮助程序](https://dotnettutorials.net/lesson/password-html-helper-in-asp-net-core-mvc/)
 
 - [ ] [ASP.NET Core MVC 中隐藏的 HTML 帮助程序](https://dotnettutorials.net/lesson/hidden-htmlhelper-in-the-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的自定义 HTML 帮助程序](https://dotnettutorials.net/lesson/custom-image-html-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 自定义 HTML 帮助程序](https://dotnettutorials.net/lesson/custom-image-html-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的自定义 HTML 帮助程序的实时示例](https://dotnettutorials.net/lesson/real-time-examples-of-custom-html-helpers-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 自定义 HTML 帮助程序的示例](https://dotnettutorials.net/lesson/real-time-examples-of-custom-html-helpers-in-asp-net-core-mvc/)
 
 - [ ] [在 ASP.NET Core MVC 中使用 HTML 帮助程序创建表单](https://dotnettutorials.net/lesson/creating-form-using-html-helpers-in-asp-net-core-mvc/)
 
@@ -184,29 +184,29 @@
 
 ### 9. ASP.NET Core MVC – 标记帮助程序
 
-- [ ] [ASP.NET Core MVC 中的标记帮助程序](https://dotnettutorials.net/lesson/tag-helpers-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 标记帮助程序](https://dotnettutorials.net/lesson/tag-helpers-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core中的图像标记帮助程序](https://dotnettutorials.net/lesson/image-tag-helper-asp-net-core/)
+- [ ] [ASP.NET Core 中的图像标记帮助程序](https://dotnettutorials.net/lesson/image-tag-helper-asp-net-core/)
 
-- [ ] [ASP.NET Core MVC 中的环境标记帮助程序](https://dotnettutorials.net/lesson/environment-tag-helper-asp-net-core/)
+- [ ] [ASP.NET Core MVC 环境标记帮助程序](https://dotnettutorials.net/lesson/environment-tag-helper-asp-net-core/)
 
-- [ ] [ASP.NET Core MVC 中的导航菜单](https://dotnettutorials.net/lesson/navigation-menus-asp-net-core/)
+- [ ] [ASP.NET Core MVC 导航菜单](https://dotnettutorials.net/lesson/navigation-menus-asp-net-core/)
 
-- [ ] [ASP.NET Core MVC 中的表单标记帮助程序](https://dotnettutorials.net/lesson/form-tag-helpers-asp-net-core/)
+- [ ] [ASP.NET Core MVC 表单标记帮助程序](https://dotnettutorials.net/lesson/form-tag-helpers-asp-net-core/)
 
-- [ ] [ASP.NET Core MVC 中的部分标记帮助程序](https://dotnettutorials.net/lesson/partial-tag-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 部分标记帮助程序](https://dotnettutorials.net/lesson/partial-tag-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的自定义标记帮助程序](https://dotnettutorials.net/lesson/creating-custom-tag-helper-in-as-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 自定义标记帮助程序](https://dotnettutorials.net/lesson/creating-custom-tag-helper-in-as-net-core-mvc/)
 
-- [ ] [查看 ASP.NET Core MVC 中的组件标记帮助程序](https://dotnettutorials.net/lesson/view-component-tag-helper-in-asp-net-core-mvc/)
+- [ ] [查看 ASP.NET Core MVC 组件标记帮助程序](https://dotnettutorials.net/lesson/view-component-tag-helper-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的缓存标记帮助程序](https://dotnettutorials.net/lesson/cache-tag-helper-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 缓存标记帮助程序](https://dotnettutorials.net/lesson/cache-tag-helper-in-asp-net-core-mvc/)
 
-- [ ] [HTML 帮助程序与ASP.NET Core MVC 中的标记帮助程序](https://dotnettutorials.net/lesson/html-helpers-vs-tag-helpers-in-asp-net-core-mvc/)
+- [ ] [HTML 帮助程序与ASP.NET Core MVC 标记帮助程序](https://dotnettutorials.net/lesson/html-helpers-vs-tag-helpers-in-asp-net-core-mvc/)
 
 ### 10. ASP.NET Core MVC – 模型绑定
 
-- [x] [ASP.NET Core MVC 中的模型绑定](https://dotnettutorials.net/lesson/model-binding-asp-net-core/)
+- [x] [ASP.NET Core MVC 模型绑定](https://dotnettutorials.net/lesson/model-binding-asp-net-core/)
 
 - [x] [在 ASP.NET Core MVC 中使用 FromForm 进行模型绑定](https://dotnettutorials.net/lesson/model-binding-using-fromform-in-asp-net-core-mvc/)
 
@@ -214,83 +214,83 @@
 
 - [x] [在 ASP.NET Core MVC 中使用 FromRoute 进行模型绑定](https://dotnettutorials.net/lesson/model-binding-using-fromroute-in-asp-net-core-mvc/)
 
-- [x] [具有复杂类型的 ASP.NET Core MVC 中的模型绑定](https://dotnettutorials.net/lesson/model-binding-in-asp-net-core-mvc-with-complex-type/)
+- [x] [具有复杂类型的 ASP.NET Core MVC 模型绑定](https://dotnettutorials.net/lesson/model-binding-in-asp-net-core-mvc-with-complex-type/)
 
-- [x] [ASP.NET Core MVC 中的自定义模型绑定](https://dotnettutorials.net/lesson/custom-model-binding-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 自定义模型绑定](https://dotnettutorials.net/lesson/custom-model-binding-in-asp-net-core-mvc/)
 
 ### 11. ASP.NET Core MVC – 数据注释验证
 
-- [x] [ASP.NET Core MVC 中的数据注释](https://dotnettutorials.net/lesson/data-annotations-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 数据注释](https://dotnettutorials.net/lesson/data-annotations-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的模型验证](https://dotnettutorials.net/lesson/model-validations-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 模型验证](https://dotnettutorials.net/lesson/model-validations-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的数据注释属性](https://dotnettutorials.net/lesson/data-annotation-attributes-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 数据注释属性](https://dotnettutorials.net/lesson/data-annotation-attributes-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的自定义验证属性](https://dotnettutorials.net/lesson/custom-data-annotation-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 自定义验证属性](https://dotnettutorials.net/lesson/custom-data-annotation-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的远程验证](https://dotnettutorials.net/lesson/remote-validation-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 远程验证](https://dotnettutorials.net/lesson/remote-validation-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的Display 和 DisplayFormat 属性](https://dotnettutorials.net/lesson/displaying-and-formatting-attributes-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC Display 和 DisplayFormat 属性](https://dotnettutorials.net/lesson/displaying-and-formatting-attributes-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的BindNever 和 BindRequired 属性](https://dotnettutorials.net/lesson/bindnever-and-bindrequired-attribute-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC BindNever 和 BindRequired 属性](https://dotnettutorials.net/lesson/bindnever-and-bindrequired-attribute-in-asp-net-core-mvc/)
 
 - [ ] [在 ASP.NET Core MVC 中使用数据注释进行黑名单和白名单检查](https://dotnettutorials.net/lesson/blacklist-and-whitelist-checks-using-data-annotation-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的自定义数据注释实时示例](https://dotnettutorials.net/lesson/custom-data-annotation-real-time-examples-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 自定义数据注释示例](https://dotnettutorials.net/lesson/custom-data-annotation-real-time-examples-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的数据注释实时示例](https://dotnettutorials.net/lesson/real-time-examples-of-data-annotations-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 数据注释示例](https://dotnettutorials.net/lesson/real-time-examples-of-data-annotations-in-asp-net-core-mvc/)
 
 ### 12. ASP.NET Core MVC – Fluent API 验证
 
-- [ ] [ASP.NET Core MVC 中的Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的Fluent API 验证示例](https://dotnettutorials.net/lesson/fluent-api-validation-examples-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC Fluent API 验证示例](https://dotnettutorials.net/lesson/fluent-api-validation-examples-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的Fluent API 异步验证程序](https://dotnettutorials.net/lesson/fluent-api-async-validators-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC Fluent API 异步验证程序](https://dotnettutorials.net/lesson/fluent-api-async-validators-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的Fluent API 自定义验证程序](https://dotnettutorials.net/lesson/fluent-api-custom-validators-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC Fluent API 自定义验证程序](https://dotnettutorials.net/lesson/fluent-api-custom-validators-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的Fluent API 验证实时示例](https://dotnettutorials.net/lesson/real-time-examples-of-fluent-api-validations-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC Fluent API 验证示例](https://dotnettutorials.net/lesson/real-time-examples-of-fluent-api-validations-in-asp-net-core-mvc/)
 
 - [ ] [数据注释与 ASP.NET CoreMVC 中的 Fluent API](https://dotnettutorials.net/lesson/data-annotations-vs-fluent-api-in-asp-net-core-mvc/)
 
 ### 13. ASP.NET Core MVC – 状态管理
 
-- [ ] [ASP.NET Core MVC 中的Cookie](https://dotnettutorials.net/lesson/cookies-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC Cookie](https://dotnettutorials.net/lesson/cookies-in-asp-net-core-mvc/)
 
 - [ ] [在 ASP.NET Core MVC 中加密 Cookie](https://dotnettutorials.net/lesson/encrypt-cookies-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的持久性 Cookie 与非持久性 Cookie](https://dotnettutorials.net/lesson/persistent-vs-non-persistent-cookies-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 持久性 Cookie 与非持久性 Cookie](https://dotnettutorials.net/lesson/persistent-vs-non-persistent-cookies-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的会话](https://dotnettutorials.net/lesson/sessions-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 会话](https://dotnettutorials.net/lesson/sessions-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的分布式会话](https://dotnettutorials.net/lesson/in-memory-vs-distributed-sessions-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 分布式会话](https://dotnettutorials.net/lesson/in-memory-vs-distributed-sessions-in-asp-net-core-mvc/)
 
 - [ ] [ASP.NET Core MVC 中Cookie 和会话之间的差异](https://dotnettutorials.net/lesson/differences-between-cookies-and-sessions-in-asp-net-core-mvc/)
 
 ### 14. ASP.NET Core – 过滤器
 
-- [ ] [ASP.NET Core MVC 中的筛选器](https://dotnettutorials.net/lesson/filters-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 筛选器](https://dotnettutorials.net/lesson/filters-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的异常筛选器](https://dotnettutorials.net/lesson/exception-filter-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 异常筛选器](https://dotnettutorials.net/lesson/exception-filter-in-asp-net-core-mvc/)
 
 - [ ] [在 ASP.NET Core MVC 中处理不成功的 HTTP 状态代码](https://dotnettutorials.net/lesson/handling-non-success-http-status-codes-in-asp-net-core-mvc/)
 
 - [ ] [基于 ASP.NET Core MVC 中状态代码的错误页面](https://dotnettutorials.net/lesson/error-pages-based-on-status-code-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的结果筛选器](https://dotnettutorials.net/lesson/result-filters-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 结果筛选器](https://dotnettutorials.net/lesson/result-filters-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的自定义结果筛选器](https://dotnettutorials.net/lesson/custom-result-filter-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 自定义结果筛选器](https://dotnettutorials.net/lesson/custom-result-filter-in-asp-net-core-mvc/)
 
 - [ ] [ASP.NET Core中的响应缓存](https://dotnettutorials.net/lesson/response-caching-in-asp-net-core/)
 
-- [ ] [ASP.NET Core MVC 中的授权筛选器](https://dotnettutorials.net/lesson/authorization-filters-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 授权筛选器](https://dotnettutorials.net/lesson/authorization-filters-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的操作筛选器](https://dotnettutorials.net/lesson/action-filters-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC 操作筛选器](https://dotnettutorials.net/lesson/action-filters-in-asp-net-core-mvc/)
 
 - [ ] [TypeFilter 与 ASP.NETCore MVC 中的 ServiceFilter](https://dotnettutorials.net/lesson/difference-between-typefilter-and-servicefilter-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中的AntiForgery 令牌](https://dotnettutorials.net/lesson/antiforgerytoken-in-asp-net-core-mvc/)
+- [ ] [ASP.NET Core MVC AntiForgery 令牌](https://dotnettutorials.net/lesson/antiforgerytoken-in-asp-net-core-mvc/)
 
 ### 15. Entity Framework Core
 
@@ -394,11 +394,11 @@
 
 ### 16. 使用 EF Core ASP.NET Core MVC
 
-- [x] [使用 EF Core 的 ASP.NET Core MVC 中的 CRUD 操作](https://dotnettutorials.net/lesson/asp-net-core-mvc-using-entity-framework-core/)
+- [x] [使用 EF Core 的 ASP.NET Core MVC  CRUD 操作](https://dotnettutorials.net/lesson/asp-net-core-mvc-using-entity-framework-core/)
 
-- [x] [使用 EF Core 的ASP.NET Core MVC 中的存储库设计模式](https://dotnettutorials.net/lesson/repository-design-pattern-in-asp-net-core-mvc/)
+- [x] [使用 EF Core 的ASP.NET Core MVC 存储库设计模式](https://dotnettutorials.net/lesson/repository-design-pattern-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的泛型存储库模式](https://dotnettutorials.net/lesson/generic-repository-pattern-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 泛型存储库模式](https://dotnettutorials.net/lesson/generic-repository-pattern-in-asp-net-core-mvc/)
 
 - [x] [在 ASP.NET Core MVC 中同时使用泛型和非泛型存储库模式](https://dotnettutorials.net/lesson/generic-and-non-generic-repository-pattern-in-asp-net-core-mvc/)
 
@@ -438,7 +438,7 @@
 
 - [x] [ASP.NET Core MVC 与 EFCore DB 优先方法](https://dotnettutorials.net/lesson/asp-net-core-mvc-with-ef-core-db-first/)
 
-- [x] [ASP.NET Core MVC 中的捆绑和缩小](https://dotnettutorials.net/lesson/bundling-and-minification-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 捆绑和缩小](https://dotnettutorials.net/lesson/bundling-and-minification-in-asp-net-core-mvc/)
 
 - [x] [使用 WebOptimizer 在ASP.NET Core 中进行捆绑和缩小](https://dotnettutorials.net/lesson/bundling-and-minification-in-asp-net-core-mvc-using-weboptimizer/)
 
@@ -448,7 +448,7 @@
 
 - [x] [在 ASP.NET Core MVC 中对单个页面执行 CRUD 操作](https://dotnettutorials.net/lesson/crud-operation-on-a-single-page-in-asp-net-core-mvc/)
 
-- [x] [ASP.NET Core MVC 中的级联下拉列表](https://dotnettutorials.net/lesson/cascading-dropdown-list-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 级联下拉列表](https://dotnettutorials.net/lesson/cascading-dropdown-list-in-asp-net-core-mvc/)
 
 - [x] [ASP.NET Core RazorPages 应用程序](https://dotnettutorials.net/lesson/asp-net-core-razor-pages/)
 
