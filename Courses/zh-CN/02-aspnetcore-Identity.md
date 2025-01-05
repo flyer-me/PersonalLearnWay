@@ -1,10 +1,10 @@
 ### 1. ASP.NET Core标识
     
-- [ ] [ASP.NET Core身份设置](https://dotnettutorials.net/lesson/asp-net-core-identity-setup/)
+- [ ] [ASP.NET Core Identity 开始使用](https://dotnettutorials.net/lesson/asp-net-core-identity-setup/)
     
-- [ ] [ASP.NET Core身份表](https://dotnettutorials.net/lesson/asp-net-core-identity-tables/)
+- [ ] [ASP.NET Core Identity 数据表](https://dotnettutorials.net/lesson/asp-net-core-identity-tables/)
     
-- [ ] [UserManager SignInManager ASP.NET Core身份中的 RoleManager](https://dotnettutorials.net/lesson/usermanager-signinmanager-rolemanager-in-asp-net-core-identity/)
+- [ ] [ASP.NET Core身份中的 UserManager SignInManager RoleManager](https://dotnettutorials.net/lesson/usermanager-signinmanager-rolemanager-in-asp-net-core-identity/)
     
 - [ ] [使用 ASP.NET Core Identity 注册新用户](https://dotnettutorials.net/lesson/register-new-user-using-asp-net-core-identity/)
     
@@ -69,6 +69,7 @@
 - [ ] [ASP.NET Core Secret Manager](https://dotnettutorials.net/lesson/asp-net-core-secret-manager/)
     
 - [ ] [Azure Key Vault 与 AWS Secrets Manager 的对比](https://dotnettutorials.net/lesson/azure-key-vault-vs-aws-secrets-manager/)
+
 ### 3. ASP.NET Core Identity – 高级
     
 - [ ] [在 ASP.NET Core Identity 中配置电子邮件服务](https://dotnettutorials.net/lesson/configuring-email-service-in-asp-net-core-identity/)
@@ -94,6 +95,7 @@
 - [ ] [ASP.NET Core Identity 中的双重身份验证](https://dotnettutorials.net/lesson/two-factor-authentication-in-asp-net-core-identity/)
     
 - [ ] [ASP.NET Core Identity 中的密码过期策略](https://dotnettutorials.net/lesson/password-expiration-policy-in-asp-net-core-identity/)
+
 ### 4. ASP.NET Core身份 - 面试问题和答案
     
 - [ ] [ASP.NET Core Identity Basic 面试问题和答案](https://dotnettutorials.net/lesson/asp-net-core-identity-basic-interview-questions-and-answers/)
