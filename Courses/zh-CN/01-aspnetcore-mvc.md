@@ -226,53 +226,51 @@
 
 - [x] [ASP.NET Core MVC 数据注释属性](https://dotnettutorials.net/lesson/data-annotation-attributes-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 自定义验证属性](https://dotnettutorials.net/lesson/custom-data-annotation-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 自定义验证属性](https://dotnettutorials.net/lesson/custom-data-annotation-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 远程验证](https://dotnettutorials.net/lesson/remote-validation-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 远程验证](https://dotnettutorials.net/lesson/remote-validation-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC Display 和 DisplayFormat 属性](https://dotnettutorials.net/lesson/displaying-and-formatting-attributes-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 显示和格式化显示属性](https://dotnettutorials.net/lesson/displaying-and-formatting-attributes-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC BindNever 和 BindRequired 属性](https://dotnettutorials.net/lesson/bindnever-and-bindrequired-attribute-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC BindNever 和 BindRequired 属性](https://dotnettutorials.net/lesson/bindnever-and-bindrequired-attribute-in-asp-net-core-mvc/)
 
-- [ ] [在 ASP.NET Core MVC 中使用数据注释进行黑名单和白名单检查](https://dotnettutorials.net/lesson/blacklist-and-whitelist-checks-using-data-annotation-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 自定义数据注释示例](https://dotnettutorials.net/lesson/custom-data-annotation-real-time-examples-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 自定义数据注释示例](https://dotnettutorials.net/lesson/custom-data-annotation-real-time-examples-in-asp-net-core-mvc/)
-
-- [ ] [ASP.NET Core MVC 数据注释示例](https://dotnettutorials.net/lesson/real-time-examples-of-data-annotations-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 数据注释示例](https://dotnettutorials.net/lesson/real-time-examples-of-data-annotations-in-asp-net-core-mvc/)
 
 ### 12. ASP.NET Core MVC – Fluent API 验证
 
-- [ ] [ASP.NET Core MVC Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Fluent API](https://dotnettutorials.net/lesson/fluent-api-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC Fluent API 验证示例](https://dotnettutorials.net/lesson/fluent-api-validation-examples-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Fluent API 验证示例](https://dotnettutorials.net/lesson/fluent-api-validation-examples-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC Fluent API 异步验证程序](https://dotnettutorials.net/lesson/fluent-api-async-validators-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Fluent API 异步验证程序](https://dotnettutorials.net/lesson/fluent-api-async-validators-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC Fluent API 自定义验证程序](https://dotnettutorials.net/lesson/fluent-api-custom-validators-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Fluent API 自定义验证程序](https://dotnettutorials.net/lesson/fluent-api-custom-validators-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC Fluent API 验证示例](https://dotnettutorials.net/lesson/real-time-examples-of-fluent-api-validations-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Fluent API 验证示例](https://dotnettutorials.net/lesson/real-time-examples-of-fluent-api-validations-in-asp-net-core-mvc/)
 
-- [ ] [数据注释与 ASP.NET CoreMVC 中的 Fluent API](https://dotnettutorials.net/lesson/data-annotations-vs-fluent-api-in-asp-net-core-mvc/)
+- [x] [数据注释与 ASP.NET CoreMVC 中的 Fluent API](https://dotnettutorials.net/lesson/data-annotations-vs-fluent-api-in-asp-net-core-mvc/)
 
 ### 13. ASP.NET Core MVC – 状态管理
 
-- [ ] [ASP.NET Core MVC Cookie](https://dotnettutorials.net/lesson/cookies-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC Cookie](https://dotnettutorials.net/lesson/cookies-in-asp-net-core-mvc/)
 
-- [ ] [在 ASP.NET Core MVC 中加密 Cookie](https://dotnettutorials.net/lesson/encrypt-cookies-in-asp-net-core-mvc/)
+- [x] [在 ASP.NET Core MVC 中加密 Cookie](https://dotnettutorials.net/lesson/encrypt-cookies-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 持久性 Cookie 与非持久性 Cookie](https://dotnettutorials.net/lesson/persistent-vs-non-persistent-cookies-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 持久性 Cookie 与非持久性 Cookie](https://dotnettutorials.net/lesson/persistent-vs-non-persistent-cookies-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 会话](https://dotnettutorials.net/lesson/sessions-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 会话](https://dotnettutorials.net/lesson/sessions-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 分布式会话](https://dotnettutorials.net/lesson/in-memory-vs-distributed-sessions-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 分布式会话](https://dotnettutorials.net/lesson/in-memory-vs-distributed-sessions-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 中Cookie 和会话之间的差异](https://dotnettutorials.net/lesson/differences-between-cookies-and-sessions-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中Cookie 和会话之间的差异](https://dotnettutorials.net/lesson/differences-between-cookies-and-sessions-in-asp-net-core-mvc/)
 
 ### 14. ASP.NET Core – 过滤器
 
-- [ ] [ASP.NET Core MVC 筛选器](https://dotnettutorials.net/lesson/filters-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 筛选器](https://dotnettutorials.net/lesson/filters-in-asp-net-core-mvc/)
 
-- [ ] [ASP.NET Core MVC 异常筛选器](https://dotnettutorials.net/lesson/exception-filter-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 异常筛选器](https://dotnettutorials.net/lesson/exception-filter-in-asp-net-core-mvc/)
 
 - [ ] [在 ASP.NET Core MVC 中处理不成功的 HTTP 状态代码](https://dotnettutorials.net/lesson/handling-non-success-http-status-codes-in-asp-net-core-mvc/)
 
