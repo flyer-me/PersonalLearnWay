@@ -4,9 +4,9 @@
     
 - [x] [ASP.NET Core Identity 数据表](https://dotnettutorials.net/lesson/asp-net-core-identity-tables/)
     
-- [ ] [ASP.NET Core Identity 中的 UserManager SignInManager RoleManager](https://dotnettutorials.net/lesson/usermanager-signinmanager-rolemanager-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity 中的 Manager 类](https://dotnettutorials.net/lesson/usermanager-signinmanager-rolemanager-in-asp-net-core-identity/)
     
-- [ ] [使用 ASP.NET Core Identity 注册新用户](https://dotnettutorials.net/lesson/register-new-user-using-asp-net-core-identity/)
+- [x] [使用 ASP.NET Core Identity 注册新用户](https://dotnettutorials.net/lesson/register-new-user-using-asp-net-core-identity/)
     
 - [ ] [ASP.NET Core Identity 中登录和注销](https://dotnettutorials.net/lesson/login-and-logout-in-asp-net-core-identity/)
     
