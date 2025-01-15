@@ -1,4 +1,4 @@
-### 1. ASP.NET Core标识
+### 1. ASP.NET Core Identity
     
 - [x] [ASP.NET Core Identity 开始使用](https://dotnettutorials.net/lesson/asp-net-core-identity-setup/)
     
@@ -8,31 +8,31 @@
     
 - [x] [使用 ASP.NET Core Identity 注册新用户](https://dotnettutorials.net/lesson/register-new-user-using-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core Identity 中登录和注销](https://dotnettutorials.net/lesson/login-and-logout-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity 中登录和注销](https://dotnettutorials.net/lesson/login-and-logout-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core Identity 中的自定义口令策略](https://dotnettutorials.net/lesson/custom-password-policy-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity 中的自定义口令策略](https://dotnettutorials.net/lesson/custom-password-policy-in-asp-net-core-identity/)
     
-- [ ] [在 ASP.NET Core 中登录后重定向到 ReturnUrl](https://dotnettutorials.net/lesson/redirect-to-returnurl-after-login-in-asp-net-core/)
+- [x] [在 ASP.NET Core 中登录后重定向到 ReturnUrl](https://dotnettutorials.net/lesson/redirect-to-returnurl-after-login-in-asp-net-core/)
     
-- [ ] [ASP.NET Core 客户端和远程验证](https://dotnettutorials.net/lesson/asp-net-core-client-side-and-remote-validation/)
+- [x] [ASP.NET Core 客户端和远程验证](https://dotnettutorials.net/lesson/asp-net-core-client-side-and-remote-validation/)
     
-- [ ] [在 ASP.NET Core Identity 中自定义 AspNetUsers 表](https://dotnettutorials.net/lesson/customizing-aspnetusers-table-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中自定义 AspNetUsers 表](https://dotnettutorials.net/lesson/customizing-aspnetusers-table-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core Identity 中的角色管理](https://dotnettutorials.net/lesson/roles-management-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity 中的角色管理](https://dotnettutorials.net/lesson/roles-management-in-asp-net-core-identity/)
     
-- [ ] [在 ASP.NET Core Identity 中自定义 AspNetRoles 表](https://dotnettutorials.net/lesson/customizing-aspnetroles-table-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中自定义 AspNetRoles 表](https://dotnettutorials.net/lesson/customizing-aspnetroles-table-in-asp-net-core-identity/)
     
-- [ ] [在 ASP.NET Core Identity 中的角色中添加或删除用户](https://dotnettutorials.net/lesson/how-to-add-or-remove-users-from-role-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中的角色中添加或删除用户](https://dotnettutorials.net/lesson/how-to-add-or-remove-users-from-role-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core Identity 基于角色的授权](https://dotnettutorials.net/lesson/asp-net-core-identity-role-based-authorization/)
+- [x] [ASP.NET Core Identity 基于角色的授权](https://dotnettutorials.net/lesson/asp-net-core-identity-role-based-authorization/)
     
-- [ ] [根据 ASP.NET Core Identity 中的用户角色显示或隐藏导航菜单](https://dotnettutorials.net/lesson/show-or-hide-navigation-menu-based-on-user-role-in-asp-net-coreidentity/)
+- [x] [根据 ASP.NET Core Identity 中的用户角色显示或隐藏导航菜单](https://dotnettutorials.net/lesson/show-or-hide-navigation-menu-based-on-user-role-in-asp-net-coreidentity/)
     
-- [ ] [显示 ASP.NET Core Identity Database 中的所有用户](https://dotnettutorials.net/lesson/how-to-display-all-users-from-asp-net-core-identity-database/)
+- [x] [显示 ASP.NET Core Identity Database 中的所有用户](https://dotnettutorials.net/lesson/how-to-display-all-users-from-asp-net-core-identity-database/)
     
-- [ ] [编辑 ASP.NET Core Identity用户](https://dotnettutorials.net/lesson/how-to-edit-asp-net-core-identity-user/)
+- [x] [编辑 ASP.NET Core Identity用户](https://dotnettutorials.net/lesson/how-to-edit-asp-net-core-identity-user/)
     
-- [ ] [删除 ASP.NET Core Identity用户](https://dotnettutorials.net/lesson/how-to-delete-asp-net-core-identity-user/)
+- [x] [删除 ASP.NET Core Identity用户](https://dotnettutorials.net/lesson/how-to-delete-asp-net-core-identity-user/)
     
 - [ ] [在 ASP.NET Core Identity 中强制执行 ON DELETE NO ACTION](https://dotnettutorials.net/lesson/how-to-enforce-on-delete-no-action-in-asp-net-core-identity/)
     
