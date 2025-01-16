@@ -34,17 +34,17 @@
     
 - [x] [删除 ASP.NET Core Identity用户](https://dotnettutorials.net/lesson/how-to-delete-asp-net-core-identity-user/)
     
-- [ ] [在 ASP.NET Core Identity 中强制执行 ON DELETE NO ACTION](https://dotnettutorials.net/lesson/how-to-enforce-on-delete-no-action-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中强制执行 ON DELETE NO ACTION](https://dotnettutorials.net/lesson/how-to-enforce-on-delete-no-action-in-asp-net-core-identity/)
     
-- [ ] [在 ASP.NET Core Identity 中添加或删除用户的角色](https://dotnettutorials.net/lesson/add-or-remove-roles-from-a-user-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中添加或删除用户的角色](https://dotnettutorials.net/lesson/add-or-remove-roles-from-a-user-in-asp-net-core-identity/)
     
-- [ ] [在 ASP.NET Core Identity 中添加或删除用户声明](https://dotnettutorials.net/lesson/add-or-remove-user-claims-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中添加或删除用户声明](https://dotnettutorials.net/lesson/add-or-remove-user-claims-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core Identity 中基于声明的授权](https://dotnettutorials.net/lesson/claims-based-authorization-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity 中基于声明的授权](https://dotnettutorials.net/lesson/claims-based-authorization-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core 中基于角色的授权与基于声明的授权](https://dotnettutorials.net/lesson/role-based-authorization-vs-claims-based-authorization-in-asp-net-core/)
+- [x] [ASP.NET Core 中基于角色的授权与基于声明的授权](https://dotnettutorials.net/lesson/role-based-authorization-vs-claims-based-authorization-in-asp-net-core/)
     
-- [ ] [ASP.NET Core MVC 视图中基于角色和基于声明的授权](https://dotnettutorials.net/lesson/role-and-claim-based-authorization-in-asp-net-core-mvc-views/)
+- [x] [ASP.NET Core MVC 视图的基于角色和基于声明的授权](https://dotnettutorials.net/lesson/role-and-claim-based-authorization-in-asp-net-core-mvc-views/)
     
 - [ ] [在 ASP.NET Core Identity 中添加或删除角色声明](https://dotnettutorials.net/lesson/add-or-remove-role-claims-in-asp-net-core-identity/)
     
