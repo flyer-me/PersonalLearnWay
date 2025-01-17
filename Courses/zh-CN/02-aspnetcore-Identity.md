@@ -46,29 +46,25 @@
     
 - [x] [ASP.NET Core MVC 视图的基于角色和基于声明的授权](https://dotnettutorials.net/lesson/role-and-claim-based-authorization-in-asp-net-core-mvc-views/)
     
-- [ ] [在 ASP.NET Core Identity 中添加或删除角色声明](https://dotnettutorials.net/lesson/add-or-remove-role-claims-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中添加或删除角色声明](https://dotnettutorials.net/lesson/add-or-remove-role-claims-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core Identity 中基于角色的声明授权](https://dotnettutorials.net/lesson/role-based-claims-authorization-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity 中基于角色的声明授权](https://dotnettutorials.net/lesson/role-based-claims-authorization-in-asp-net-core-identity/)
 
 ### 2. ASP.NET Core Identity – 外部提供商
     
-- [ ] [ASP.NET Core 中的外部 Identity 提供商](https://dotnettutorials.net/lesson/external-identity-providers-in-asp-net-core/)
+- [x] [ASP.NET Core 中的外部 Identity 提供商](https://dotnettutorials.net/lesson/external-identity-providers-in-asp-net-core/)
     
-- [ ] [Google OAuth 凭据](https://dotnettutorials.net/lesson/how-to-create-google-oauth-credentials/)
+- [x] [Google OAuth 凭据](https://dotnettutorials.net/lesson/how-to-create-google-oauth-credentials/)
     
-- [ ] [ASP.NET Core MVC 中的 Google 身份验证](https://dotnettutorials.net/lesson/google-authentication-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的 Google 身份验证](https://dotnettutorials.net/lesson/google-authentication-in-asp-net-core-mvc/)
     
-- [ ] [Microsoft 帐户外部登录设置](https://dotnettutorials.net/lesson/microsoft-account-external-login-setup/)
+- [x] [Microsoft 帐户外部登录设置](https://dotnettutorials.net/lesson/microsoft-account-external-login-setup/)
     
-- [ ] [Microsoft Core MVC 中的 ASP.NET 外部身份验证](https://dotnettutorials.net/lesson/integrating-microsoft-external-authentication-in-asp-net-core-mvc/)
+- [x] [ASP.NET Core MVC 中的 Microsoft 外部身份验证](https://dotnettutorials.net/lesson/integrating-microsoft-external-authentication-in-asp-net-core-mvc/)
     
-- [ ] [Facebook 帐户外部登录设置](https://dotnettutorials.net/lesson/facebook-account-external-login-setup/)
+- [x] [ASP.NET Core Secret Manager](https://dotnettutorials.net/lesson/asp-net-core-secret-manager/)
     
-- [ ] [ASP.NET Core MVC 中的 Facebook 外部身份验证](https://dotnettutorials.net/lesson/facebook-external-authentication-in-asp-net-core-mvc/)
-    
-- [ ] [ASP.NET Core Secret Manager](https://dotnettutorials.net/lesson/asp-net-core-secret-manager/)
-    
-- [ ] [Azure Key Vault 与 AWS Secrets Manager 的对比](https://dotnettutorials.net/lesson/azure-key-vault-vs-aws-secrets-manager/)
+- [x] [Azure Key Vault 与 AWS Secrets Manager 的对比](https://dotnettutorials.net/lesson/azure-key-vault-vs-aws-secrets-manager/)
 
 ### 3. ASP.NET Core Identity – 高级
     
