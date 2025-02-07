@@ -68,21 +68,23 @@
 
 ### 3. ASP.NET Core Identity – 高级
     
-- [ ] [在 ASP.NET Core Identity 中配置电子邮件服务](https://dotnettutorials.net/lesson/configuring-email-service-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中配置电子邮件服务](https://dotnettutorials.net/lesson/configuring-email-service-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core Identity 中的电子邮件确认](https://dotnettutorials.net/lesson/email-confirmation-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity 中的电子邮件确认](https://dotnettutorials.net/lesson/email-confirmation-in-asp-net-core-identity/)
     
-- [ ] [如果电子邮件未在 ASP.NET Core Identity 中确认，则阻止登录](https://dotnettutorials.net/lesson/block-login-if-email-not-confirmed-in-asp-net-core-identity/)
+- [x] [如果电子邮件未在 ASP.NET Core Identity 中确认，则阻止登录](https://dotnettutorials.net/lesson/block-login-if-email-not-confirmed-in-asp-net-core-identity/)
     
-- [ ] [忘记 ASP.NET Core Identity中的密码](https://dotnettutorials.net/lesson/forgot-password-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity密码重置](https://dotnettutorials.net/lesson/forgot-password-in-asp-net-core-identity/)
     
-- [ ] [在 ASP.NET Core Identity 中存储令牌](https://dotnettutorials.net/lesson/how-to-store-tokens-in-asp-net-core-identity/)
+- [x] [在 ASP.NET Core Identity 中存储令牌](https://dotnettutorials.net/lesson/how-to-store-tokens-in-asp-net-core-identity/)
     
-- [ ] [更改 ASP.NET Core Identity中的密码](https://dotnettutorials.net/lesson/change-password-in-asp-net-core-identity/)
+- [x] [更改 ASP.NET Core Identity中的密码](https://dotnettutorials.net/lesson/change-password-in-asp-net-core-identity/)
     
-- [ ] [将密码添加到链接到外部登录的本地帐户](https://dotnettutorials.net/lesson/add-password-to-local-account-linked-to-external-login-in-asp-net-core-identity/)
+- [x] [将密码添加到链接到外部登录的本地帐户](https://dotnettutorials.net/lesson/add-password-to-local-account-linked-to-external-login-in-asp-net-core-identity/)
     
-- [ ] [ASP.NET Core Identity 中的帐户锁定](https://dotnettutorials.net/lesson/account-lockout-in-asp-net-core-identity/)
+- [x] [ASP.NET Core Identity 中的帐户锁定](https://dotnettutorials.net/lesson/account-lockout-in-asp-net-core-identity/)
+
+- [ ] [在 ASP.NET Core 中实施 CAPTCHA](https://dotnettutorials.net/lesson/how-to-implement-captcha-in-asp-net-core/)
     
 - [ ] [在 ASP.NET Core 中发送短信](https://dotnettutorials.net/lesson/how-to-send-sms-in-asp-net-core/)
     
