@@ -1,22 +1,22 @@
 ### SQL Server – 基础知识
 
-  - [ ] [连接到 SQL Server](https://dotnettutorials.net/lesson/sql-server-management-studio/)
+  - [x] [连接到 SQL Server](https://dotnettutorials.net/lesson/sql-server-management-studio/)
 
-  - [ ] [在 SQL Server 中创建、更改和删除数据库](https://dotnettutorials.net/lesson/creating-altering-and-deleting-database-in-sql-server/)
+  - [x] [在 SQL Server 中创建、更改和删除数据库](https://dotnettutorials.net/lesson/creating-altering-and-deleting-database-in-sql-server/)
 
-  - [ ] [在 SQL Server 中创建、更改和删除表](https://dotnettutorials.net/lesson/data-definition-language-sql-server/)
+  - [x] [在 SQL Server 中创建、更改和删除表](https://dotnettutorials.net/lesson/data-definition-language-sql-server/)
 
-  - [ ] [SQL Server 数据类型](https://dotnettutorials.net/lesson/data-types-sql-server/)
+  - [x] [SQL Server 数据类型](https://dotnettutorials.net/lesson/data-types-sql-server/)
 
-  - [ ] [SQL Server 中的约束](https://dotnettutorials.net/lesson/sql-server-constraints/)
+  - [x] [SQL Server 中的约束](https://dotnettutorials.net/lesson/sql-server-constraints/)
 
-  - [ ] [SQL Server 中的主键](https://dotnettutorials.net/lesson/primary-key-constraint-sql-server/)
+  - [x] [SQL Server 中的主键](https://dotnettutorials.net/lesson/primary-key-constraint-sql-server/)
 
-  - [ ] [SQL Server 中的外键](https://dotnettutorials.net/lesson/foreign-key-constraint-sql-server/)
+  - [x] [SQL Server 中的外键](https://dotnettutorials.net/lesson/foreign-key-constraint-sql-server/)
 
-  - [ ] [SQL Server 中多个表之间的主键和外键关系](https://dotnettutorials.net/lesson/primary-key-and-foreign-key-relationship-sql-server/)
+  - [x] [SQL Server 中主键和外键](https://dotnettutorials.net/lesson/primary-key-and-foreign-key-relationship-sql-server/)
 
-  - [ ] [SQL Server 中的级联引用完整性约束](https://dotnettutorials.net/lesson/cascading-referential-integrity-constraints-sql-server/)
+  - [x] [SQL Server 中的级联引用完整性约束](https://dotnettutorials.net/lesson/cascading-referential-integrity-constraints-sql-server/)
 
   - [ ] [SQL Server 中的标识列](https://dotnettutorials.net/lesson/identity-column-sql-server/)
 
@@ -32,7 +32,7 @@
 
   - [ ] [SQL Server 中的 Order By 子句](https://dotnettutorials.net/lesson/order-by-clause-sql-server/)
 
-  - [ ] [SQL Server 中的 Top n 子句](https://dotnettutorials.net/lesson/top-n-clause-sql-server/)
+  - [ ] [SQL Server 中的 Top 子句](https://dotnettutorials.net/lesson/top-n-clause-sql-server/)
 
   - [ ] [SQL Server 中的 Group By 子句](https://dotnettutorials.net/lesson/group-by-clause-sql-server/)
 
