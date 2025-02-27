@@ -83,7 +83,7 @@ async Task UploadAsync(int x)
     await Task.Delay(1000);
     Console.WriteLine($"{x} done");
 }
-
+data = new List<Task>();
 var tasks = from x in data
             select UploadAsync(x);
 // tasks = data.Select(x => UploadAsync(x));
