@@ -18,43 +18,43 @@
 
   - [x] [SQL Server 中的级联引用完整性约束](https://dotnettutorials.net/lesson/cascading-referential-integrity-constraints-sql-server/)
 
-  - [ ] [SQL Server 中的标识列](https://dotnettutorials.net/lesson/identity-column-sql-server/)
+  - [x] [SQL Server 中的标识列](https://dotnettutorials.net/lesson/identity-column-sql-server/)
 
-  - [ ] [SQL Server 中的 Sequence 对象](https://dotnettutorials.net/lesson/sequence-object-sql-server/)
+  - [x] [SQL Server 中的 Sequence 对象](https://dotnettutorials.net/lesson/sequence-object-sql-server/)
 
-  - [ ] [SQL Server 中序列和身份之间的区别](https://dotnettutorials.net/lesson/difference-between-sequence-and-identity-in-sql-server/)
+  - [x] [SQL Server 中序列和身份之间的区别](https://dotnettutorials.net/lesson/difference-between-sequence-and-identity-in-sql-server/)
 
-  - [ ] [SQL Server 中的 Select 语句](https://dotnettutorials.net/lesson/select-statement-sql-server/)
+  - [x] [SQL Server 中的 Select 语句](https://dotnettutorials.net/lesson/select-statement-sql-server/)
 
 ### SQL Server – 子句
 
-  - [ ] [SQL Server 中的 Where 子句](https://dotnettutorials.net/lesson/where-clause-sql-server/)
+  - [x] [SQL Server 中的 Where 子句](https://dotnettutorials.net/lesson/where-clause-sql-server/)
 
-  - [ ] [SQL Server 中的 Order By 子句](https://dotnettutorials.net/lesson/order-by-clause-sql-server/)
+  - [x] [SQL Server 中的 Order By 子句](https://dotnettutorials.net/lesson/order-by-clause-sql-server/)
 
-  - [ ] [SQL Server 中的 Top 子句](https://dotnettutorials.net/lesson/top-n-clause-sql-server/)
+  - [x] [SQL Server 中的 Top 子句](https://dotnettutorials.net/lesson/top-n-clause-sql-server/)
 
-  - [ ] [SQL Server 中的 Group By 子句](https://dotnettutorials.net/lesson/group-by-clause-sql-server/)
+  - [x] [SQL Server 中的 Group By 子句](https://dotnettutorials.net/lesson/group-by-clause-sql-server/)
 
-  - [ ] [SQL Server 中的 having 子句](https://dotnettutorials.net/lesson/having-clause-sql-server/)
+  - [x] [SQL Server 中的 having 子句](https://dotnettutorials.net/lesson/having-clause-sql-server/)
 
-  - [ ] [SQL Server 中 Where 和 Having 子句的区别](https://dotnettutorials.net/lesson/difference-between-where-and-having-clause-in-sql-server/)
+  - [x] [SQL Server 中 Where 和 Having 子句的区别](https://dotnettutorials.net/lesson/difference-between-where-and-having-clause-in-sql-server/)
 
 ### SQL Server – 运算符
 
-  - [ ] [SQL Server 中的赋值运算符](https://dotnettutorials.net/lesson/assignment-operator-sql-server/)
+  - [x] [SQL Server 中的赋值运算符](https://dotnettutorials.net/lesson/assignment-operator-sql-server/)
 
-  - [ ] [SQL Server 中的算术运算符](https://dotnettutorials.net/lesson/arithmetic-operators-sql-server/)
+  - [x] [SQL Server 中的算术运算符](https://dotnettutorials.net/lesson/arithmetic-operators-sql-server/)
 
-  - [ ] [SQL Server 中的比较运算符](https://dotnettutorials.net/lesson/comparison-operators-sql-server/)
+  - [x] [SQL Server 中的比较运算符](https://dotnettutorials.net/lesson/comparison-operators-sql-server/)
 
-  - [ ] [SQL Server 中的逻辑运算符](https://dotnettutorials.net/lesson/logical-operators-sql-server/)
+  - [x] [SQL Server 中的逻辑运算符](https://dotnettutorials.net/lesson/logical-operators-sql-server/)
 
-  - [ ] [SQL Server 中的 IN BETWEEN 和 LIKE 运算符](https://dotnettutorials.net/lesson/in-between-and-like-operators-sql-server/)
+  - [x] [SQL Server 中的 IN BETWEEN 和 LIKE 运算符](https://dotnettutorials.net/lesson/in-between-and-like-operators-sql-server/)
 
-  - [ ] [SQL Server 中的 ALL 运算符](https://dotnettutorials.net/lesson/all-operator-sql-server/)
+  - [x] [SQL Server 中的 ALL 运算符](https://dotnettutorials.net/lesson/all-operator-sql-server/)
 
-  - [ ] [SQL Server 中的 ANY 运算符](https://dotnettutorials.net/lesson/any-operator-sql-server/)
+  - [x] [SQL Server 中的 ANY 运算符](https://dotnettutorials.net/lesson/any-operator-sql-server/)
 
   - [ ] [SQL Server 中的 SOME 运算符](https://dotnettutorials.net/lesson/some-operator-sql-server/)
 

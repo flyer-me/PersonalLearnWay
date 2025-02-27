@@ -58,3 +58,36 @@ ALTER TABLE employees DROP CONSTRAINT id_prime;
 ```sql
 INSERT INTO employees (id, name, branchcode, Entered_date) VALUES (2, 'name1', 102, GETDATE());
 ```
+
+5.读取数据
+```sql
+SELECT [ ALL | DISTINCT ]
+[TOP (top_value) [ PERCENT ] [ WITH TIES ] ]
+expressions
+FROM tables
+[WHERE conditions]
+[GROUP BY expressions]
+[HAVING condition]
+[ORDER BY expression [ ASC | DESC ]];
+/*
+ALL ：返回所有匹配的行。
+
+DISTINCT ：从结果集中删除重复的行。
+
+TOP ：返回结果集中的前 top_value 行。
+
+PERCENT：返回总结果集的百分比。
+
+WITH TIES：返回在有限结果集中的最后一个位置绑定的行。
+
+expressions ：在结果集中检索的列或计算。使用 * 选择所有列。
+
+tables ：要从中检索记录的表。
+
+WHERE ：结果集满足的条件。
+
+GROUP BY ：按一列或多列对记录进行分组。
+
+ORDER BY ：按升序或降序排序。
+*/
+```
