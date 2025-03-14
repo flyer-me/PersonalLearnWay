@@ -56,15 +56,15 @@
 
   - [x] [SQL Server 中的 ANY 运算符](https://dotnettutorials.net/lesson/any-operator-sql-server/)
 
-  - [ ] [SQL Server 中的 SOME 运算符](https://dotnettutorials.net/lesson/some-operator-sql-server/)
+  - [x] [SQL Server 中的 SOME 运算符](https://dotnettutorials.net/lesson/some-operator-sql-server/)
 
-  - [ ] [SQL Server 中的 EXISTS 运算符](https://dotnettutorials.net/lesson/exists-operator-sql-server/)
+  - [x] [SQL Server 中的 EXISTS 运算符](https://dotnettutorials.net/lesson/exists-operator-sql-server/)
 
-  - [ ] [SQL Server 中的 UNION 和 UNION ALL 运算符](https://dotnettutorials.net/lesson/union-and-union-all-operators-sql-server/)
+  - [x] [SQL Server 中的 UNION 和 UNION ALL 运算符](https://dotnettutorials.net/lesson/union-and-union-all-operators-sql-server/)
 
-  - [ ] [SQL Server 中的 EXCEPT 运算符](https://dotnettutorials.net/lesson/except-operator-sql-server/)
+  - [x] [SQL Server 中的 EXCEPT 运算符](https://dotnettutorials.net/lesson/except-operator-sql-server/)
 
-  - [ ] [SQL Server 中的 INTERSECT 运算符](https://dotnettutorials.net/lesson/intersect-operator-sql-server/)
+  - [x] [SQL Server 中的 INTERSECT 运算符](https://dotnettutorials.net/lesson/intersect-operator-sql-server/)
 
   - [ ] [SQL Server 中 UNION EXCEPT 和 INTERSECT 运算符之间的差异](https://dotnettutorials.net/lesson/differences-between-union-except-and-intersect-operators-in-sql-server/)
 
