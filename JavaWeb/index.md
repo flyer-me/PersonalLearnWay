@@ -1,8 +1,10 @@
+- [ ] java
+- [ ] JVM
 - [ ] Tomcat
 - [ ] Servlet
 - [ ] JSP
 - [ ] EL表达式
-- [ ] JSTL
+- [ ] JSP 标准标签库：JSTL
 - [ ] Filter
 - [ ] Listener
 - [ ] Ajax
@@ -16,4 +18,3 @@
 - [ ] 大数据：Elastic Serch
 - [ ] 设计模式
 - [ ] 数据结构与算法
-- [ ] JVM

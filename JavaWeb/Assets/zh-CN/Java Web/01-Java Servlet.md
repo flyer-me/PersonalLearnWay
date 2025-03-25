@@ -1,16 +1,16 @@
 * Java Servlet – 基础知识
 
-  - [ ] [Web 应用程序和 Web 术语简介](https://dotnettutorials.net/lesson/introduction-to-web-application/)
+  - [x] [Web 应用程序和 Web 术语简介](https://dotnettutorials.net/lesson/introduction-to-web-application/)
 
-  * [ ] [Servlet 简介](https://dotnettutorials.net/lesson/introduction-to-servlets/)
+  * [x] [Servlet 简介](https://dotnettutorials.net/lesson/introduction-to-servlets/)
 
-  - [ ] [HTTP 协议和 HTTP 方法](https://dotnettutorials.net/lesson/http-protocol/)
+  - [x] [HTTP 协议和 HTTP 方法](https://dotnettutorials.net/lesson/http-protocol/)
 
-  * [ ] [Java Servlet API](https://dotnettutorials.net/lesson/java-servlet-api/)
+  * [x] [Java Servlet API](https://dotnettutorials.net/lesson/java-servlet-api/)
 
-  - [ ] [Java Servlet 接口](https://dotnettutorials.net/lesson/java-servlet-interface/)
+  - [x] [Java Servlet 接口](https://dotnettutorials.net/lesson/java-servlet-interface/)
 
-  * [ ] [通用 Servlet](https://dotnettutorials.net/lesson/generic-servlet/)
+  * [x] [通用 Servlet](https://dotnettutorials.net/lesson/generic-servlet/)
 
   - [ ] [Java 中的 HTTP Servlet](https://dotnettutorials.net/lesson/http-servlet-in-java/)
 
