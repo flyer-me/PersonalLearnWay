@@ -1,34 +1,32 @@
 * Spring Boot – 基础知识
 
-  * [ ] [什么是 Spring Boot](https://dotnettutorials.net/lesson/what-is-spring-boot/)
+  * [x] [什么是 Spring Boot](https://dotnettutorials.net/lesson/what-is-spring-boot/)
 
-  - [ ] [Spring Boot 版本](https://dotnettutorials.net/lesson/spring-boot-versions/)
+  - [x] [Spring Boot 版本](https://dotnettutorials.net/lesson/spring-boot-versions/)
 
-  * [ ] [Spring Boot 环境设置](https://dotnettutorials.net/lesson/spring-boot-environment-setup/)
+  * [x] [Spring Boot 环境设置](https://dotnettutorials.net/lesson/spring-boot-environment-setup/)
 
-  - [ ] [开发第一个 Spring Boot Web 应用程序](https://dotnettutorials.net/lesson/spring-boot-first-web-application/)
+  - [x] [开发第一个 Spring Boot Web 应用程序](https://dotnettutorials.net/lesson/spring-boot-first-web-application/)
 
-  * [ ] [Spring Boot Tomcat 部署](https://dotnettutorials.net/lesson/spring-boot-tomcat-deployment/)
+  * [x] [Spring Boot Tomcat 部署](https://dotnettutorials.net/lesson/spring-boot-tomcat-deployment/)
 
-  - [ ] [Spring Boot 依赖项注入和应用程序运行程序](https://dotnettutorials.net/lesson/spring-boot-dependency-injection-and-application-runner/)
+  - [x] [Spring Boot 依赖项注入和应用程序运行程序](https://dotnettutorials.net/lesson/spring-boot-dependency-injection-and-application-runner/)
 
-  * [ ] [Spring Boot 应用程序属性](https://dotnettutorials.net/lesson/spring-boot-application-properties/)
+  * [x] [Spring Boot 应用程序属性](https://dotnettutorials.net/lesson/spring-boot-application-properties/)
 
-  - [ ] [Spring Boot 日志记录](https://dotnettutorials.net/lesson/spring-boot-logging/)
+  - [x] [Spring Boot 日志记录](https://dotnettutorials.net/lesson/spring-boot-logging/)
 
-  * [ ] [使用 Logback 的 Spring Boot 日志记录](https://dotnettutorials.net/lesson/spring-boot-logging-using-logback/)
+  - [x] [Spring Boot RESTful Web 服务](https://dotnettutorials.net/lesson/spring-boot-restful-web-services/)
 
-  - [ ] [Spring Boot RESTful Web 服务](https://dotnettutorials.net/lesson/spring-boot-restful-web-services/)
+  * [x] [Spring Boot 异常处理](https://dotnettutorials.net/lesson/spring-boot-exception-handling/)
 
-  * [ ] [Spring Boot 异常处理](https://dotnettutorials.net/lesson/spring-boot-exception-handling/)
+  - [x] [Spring Boot 拦截器](https://dotnettutorials.net/lesson/spring-boot-interceptor/)
 
-  - [ ] [Spring Boot 拦截器](https://dotnettutorials.net/lesson/spring-boot-interceptor/)
+  * [x] [Servlet 过滤器](https://dotnettutorials.net/lesson/spring-boot-servlet-filter/)
 
-  * [ ] [Spring Boot Servlet 过滤器](https://dotnettutorials.net/lesson/spring-boot-servlet-filter/)
+  - [x] [Spring Boot 文件处理](https://dotnettutorials.net/lesson/spring-boot-file-handling/)
 
-  - [ ] [Spring Boot 文件处理](https://dotnettutorials.net/lesson/spring-boot-file-handling/)
-
-  * [ ] [Spring Boot 服务组件](https://dotnettutorials.net/lesson/spring-boot-service-components/)
+  * [x] [Spring Boot service 组件](https://dotnettutorials.net/lesson/spring-boot-service-components/)
 
   - [ ] [Spring Boot Thymeleaf](https://dotnettutorials.net/lesson/spring-boot-thymeleaf/)
 

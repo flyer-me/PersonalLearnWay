@@ -8,9 +8,7 @@
 
   - [ ] [使用 MyEclipse IDE 的 JSP](https://dotnettutorials.net/lesson/jsp-using-myeclipse-ide/)
 
-  * [ ] [使用 NetBeans IDE 的 JSP](https://dotnettutorials.net/lesson/jsp-using-netbeans-ide/)
-
-  - [ ] [The JSP API](https://dotnettutorials.net/lesson/jsp-api/)
+  - [ ] [JSP API](https://dotnettutorials.net/lesson/jsp-api/)
 
   * [ ] [JSP 体系结构](https://dotnettutorials.net/lesson/jsp-architecture/)
 
@@ -92,8 +90,6 @@
 
   - [ ] [JSP 中的自动页面刷新](https://dotnettutorials.net/lesson/auto-page-refresh-injsp/)
 
-  * [ ] [在 JSP 中发送电子邮件](https://dotnettutorials.net/lesson/sending-email-in-jsp/)
-
 * JSP 面试问题和解答
 
-  * [ ] [JSP 面试问题和解答](https://dotnettutorials.net/lesson/jsp-interview-questions/)
+  * [x] [JSP 面试问题和解答](https://dotnettutorials.net/lesson/jsp-interview-questions/)

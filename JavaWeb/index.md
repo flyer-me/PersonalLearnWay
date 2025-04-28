@@ -1,7 +1,7 @@
 - [ ] java
 - [ ] JVM
 - [ ] Tomcat
-- [ ] Servlet
+- [x] Servlet
 - [ ] JSP
 - [ ] EL表达式
 - [ ] JSP 标准标签库：JSTL
